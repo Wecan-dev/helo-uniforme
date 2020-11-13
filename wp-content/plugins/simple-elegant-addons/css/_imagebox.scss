@@ -1,0 +1,254 @@
+/* ------       GRID LAYOUT - since 2.3     ------ */
+.imagebox_masonry_wrapper {
+    overflow: hidden;
+    margin: 0 -10px;
+}
+.grid-sizer {
+    width: 50%;
+}
+.imagebox-grid-item {
+    display: block;
+    float: left;
+    margin: 0;
+    
+    &.col-1 {
+        width: 100%;
+    }
+    &.col-1-2 {
+        width: 50%;
+    }
+    &.col-1-3 {
+        width: 33.33%;
+    }
+    &.col-2-3 {
+        width: 66.66%;
+    }
+    &.col-1-4 {
+        width: 25%;
+    }
+    &.col-3-4 {
+        width: 75%;
+    }
+    &.col-1-5 {
+        width: 20%;
+    }
+    &.col-2-5 {
+        width: 40%;
+    }
+    &.col-3-5 {
+        width: 60%;
+    }
+    &.col-4-5 {
+        width: 80%;
+    }
+    &.col-1-6 {
+        width: 16.66%;
+    }
+    &.col-5-6 {
+        width: 83.33%;
+    }
+    
+    &.box-spacing-none .imagebox-inner-inner {
+        padding: 0;
+    }
+    &.box-spacing-thin .imagebox-inner-inner {
+        padding: 2px;
+    }
+    &.box-spacing-large .imagebox-inner-inner {
+        padding: 10px;
+    }
+}
+
+.wi-imagebox {
+    display: block;
+    .wi-button {
+        margin-right: auto;
+        margin-bottom: 0;
+    }
+}
+.imagebox-inner {
+    position: relative;
+    overflow: hidden;
+}
+.imagebox-inner-inner {
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+.imagebox-title-wrapper,
+.imagebox-subtitle-wrapper,
+.imagebox-button-wrapper {
+    transition: all .15s ease-out;
+}
+.imagebox-subtitle-wrapper + .imagebox-title-wrapper {
+    margin-top: 24px;
+}
+.wi-imagebox.has-link .imagebox-inner:hover {
+    .bg-element {
+        transform: scale(1.02);
+    }
+    .imagebox-title-wrapper {
+        transform: translate(0,-10px);
+    }
+    .imagebox-subtitle-wrapper {
+        transform: translate(0,-6px);
+    }
+    .imagebox-button-wrapper {
+        transform: translate(0,-3px);
+    }
+}
+.bg-thumb {
+    display: block;
+    position: relative;
+    width: 100%;
+    height: 100%;
+    
+    overflow: hidden;
+    z-index: 7;
+}
+.bg-thumb .bg-element {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+    transition: all .6s ease-out;
+}
+.height-element {
+    padding-bottom: 50%;
+}
+.imagebox-overlay {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    z-index: 8;
+}
+.imagebox-slider {
+    z-index: 7;
+    display: block;
+    margin: 0;
+    
+    position: relative;
+    width: 100%;
+    height: 100%;
+    
+    .flex-control-paging li a {
+        background: rgba(255,255,255,.4);
+        
+        width: 8px;
+        height: 8px;
+        margin: 0 4px;
+        
+    }
+    .flex-control-paging li a:hover {
+        background: rgba(255,255,255,.5);
+    }
+    .flex-control-paging li a.flex-active {
+        background: rgba(255,255,255,.8);
+    }
+    
+    .flexslider,
+    .slides,
+    .slide {
+        height: 100%;
+        width: 100%;
+    }
+    .foo {
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+    }
+    .flexslider > .slides li.slide {
+    }
+    
+    .bg-thumb {
+        width: auto;
+        height: auto;
+        position: absolute;
+        left: -10px;
+        right: -10px;
+        top: -10px;
+        bottom: -10px;
+    }
+    .height-element {
+        margin: 0 -10px;
+    }
+    
+}
+
+.imagebox-text {
+    position: absolute;
+    z-index: 10;
+    color: white;
+}
+.imagebox-title {
+    font-size: 2em;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin: 0;
+    color: inherit;
+    display: inline-block;
+}
+.imagebox-subtitle {
+    color: inherit;
+    margin: .6em 0 0;
+    font-weight: normal;
+    font-size: .95em;
+    letter-spacing: .5px;
+    text-transform: uppercase;
+}
+.imagebox-button-wrapper {
+    margin: 1em 0 0;
+}
+
+.wrap-link {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    outline: 0;
+    z-index: 30;
+    outline: 0;
+    text-decoration: none;
+}
+
+// since 2.3
+.wi-imagebox {
+    &.text-top .imagebox-text {
+        top: 20px;
+    }
+    &.text-bottom .imagebox-text {
+        bottom: 20px;
+    }
+    &.text-middle .imagebox-text {
+        top: 50%;
+        transform: translate(0,-50%);
+    }
+    &.text-left .imagebox-text {
+        left: 20px;
+    }
+    &.text-right .imagebox-text {
+        right: 20px;
+        text-align: right;
+    }
+    &.text-center .imagebox-text {
+        left: 20px;
+        right: 20px;
+        text-align: center;
+    }
+}

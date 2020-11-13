@@ -1,0 +1,119 @@
+========== S&E 2.3 ==========
+// FIX: instagram issue
+// reorganize code
+// MODIFIED: change default fonts from PT Serif & Open Sans to Lato
+// FEATURE: transparent header
+// FEATURE: add more useful css classes for displaying headings: thin-200, semibold, extrabold..
+// FEATURE: alignment left, right, center for row, section
+// FEATURE: video, parallax option for section
+// FEATURE: smooth scroll to for buttons, links
+// FEATURE: metro layout for image gallery
+// FEATURE: add caption option for image gallery
+// FEATURE: add pill shape option for buttons
+// FEATURE: add featured, color & design options for pricing column
+// FEATURE: add button option for imagebox. allows to add many images to create a background slideshow. add position option for imagebox
+// FEATURE: add imagebox grid
+// FEATURE: add styled google map element
+// FEATURE: add action option for buttons (allows to open lightbox video)
+// FEATURE: allows to use icon button
+// FEATURE: add scroll up button to the site
+// FEATURE: add mailchimp form element
+// FEATURE: add few more options for portfolio shortcode
+// FEATURE: change default page title style (more modern), option for backward compatibility
+// FEATURE: add many options for single project
+// FEATURE: add single testimonial element
+
+- option to show portfolio from certain cats
+
+// WOOCOMMERCE: important improvements
+// WOOCOMMERCE: enable breadcrumb (with option to on/off)
+// WOOCOMMERCE: relayout div structure for more flexible layouts
+// WOOCOMMERCE: enable thumbnail slider & zoom effect
+// WOOCOMMERCE: Prev/Next for WooCommerce pagination
+// WOOCOMMERCE: add quick view
+// WOOCOMMERCE: add Shop Sidebar
+// WOOCOMMERCE: Flip Image feature on product thumbnails
+// WOOCOMMERCE: add product cats to loop items
+// WOOCOMMERCE: Integrate Wishlist plugin
+
+========== S&E 2.3.0.1 ==========
+- woocommerce 3.4.0 compatible
+- update slider revolution 5.4.7.4
+
+========== S&E 2.4 ==========
+// update revslider & wpbakery page builder to the latest version
+// adjust default copyright text
+// fix the issue set_option after importing process
+// add schema.org to improve SEO aspect
+// add built-in Instagram Widget
+// add built-in Pinterest Widget
+// add built-in Facebook Widget
+// add dropcap shortcode
+
+========== S&E 2.4.1 ==========
+// update Slider Revolution to latest version
+// update WPBakery Page Builder to latest version
+
+========== S&E 2.5 ==========
+- WP 5.1 compatible
+- Compatible with WooCommerce 3.6.1
+- Fix issue with buttons on mobile
+- Fix one click import demo issues
+- Recommend WooCommerce
+- update Slider Revolution to latest version
+- update WPBakery Page Builder to latest version
+
+========== S&E 2.6 ==========
+- add feminine demo
+- fix portfolio post format issue
+- change import URLs to https
+- update Slider Revolution to latest version
+- update WPBakery Page Builder to latest version
+- Fix z-index of header element, reduce it to 300
+
+========== S&E 2.6.1 ==========
+- update to latest WPBakery Page Builder + RevSlider
+- fix PT_OCDI_URL issue line 176 when use with VC
+- fix post + project slider issue
+- fix woocommerce product archive layout issue on safari
+- fix woocommerce outdate files
+- recommend Instagram Feed
+
+========== S&E 2.6.2 ==========
+- update to latest WPBakery Page Builder + RevSlider
+- add compatibility to latest WooCommerce version
+- deprecate old Instagram widget
+
+========== S&E 2.6.3 ==========
+- fix JS Migration issue WP 5.5
+
+== TODO ==
+- WPML compatible check again
+- more demos to go
+- improve demos
+- improve description
+- more theme options
+- more portfolio layouts
+- more header layouts (and options)
+- more footer layouts (and options)
+- reregenrate the pot file for theme & plugins
+- add predefined vc templates
+- online documentation + more detail
+- PHP 5.3 & 7.0 compatible
+- more concepts to choose from
+- option to add image to mega menu
+- fix the issue: form elements on mobile don't look like on desktop
+- sidebar for portfolio. make portfolio more creative
+- add related posts. share icons for posts, portfolio
+- more demos, more pages
+- more header layouts
+- improve WooCommerce (more features & fix many issues)
+- improve page speed
+- improve SEO
+- test on windows
+- add predefined templates of VC
+- event calendar compatible
+- add breadcrumb to site
+- retest with WPML
+
+tags: writer, blog, personal, clean, creative, elegant, feminine, minimal, modern, photography, portfolio, wedding, simple, business, woocommerce

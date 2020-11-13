@@ -1,0 +1,602 @@
+"ID","Tipo","SKU","Nombre","Publicado","¿Está destacado?","Visibilidad en el catálogo","Descripción corta","Descripción","Estado del impuesto","Clase de impuesto","¿En inventario?","Inventario","Peso (kg)","Longitud (cm)","Anchura (cm)","Altura (cm)","Precio rebajado","Precio normal","Categorías","Etiquetas","Clase de envío","Imágenes https://drive.google.com/drive/folders/1aGLzV9KTZtu0GRPBiOBXpyDOLDpRR7fl","Swatches Attributes","Nombre del atributo 1","Valor(es) del atributo talla","Atributo visible talla","Atributo global talla","Atributo por defecto talla"
+"32169","variable","pbo-cinturon","CINTURÓN POWERLIFTING PBO","1","0","visible","¡Ya disponible nuestro CINTURÓN PBO para para que mejores más que nunca tu rendimiento en los básicos! Consigue meter más kg a la barra sintiéndote más fuerte, seguro y compacto que nunca.
+\n
+\n<strong>CARACTERISTICAS:</strong>
+\n
+\n- Materiales de alta calidad y remaches avanzados para evitar que se abra al realizar el movimiento.
+\n- Cinturón semi rígido, se adapta con facilidad ofreciendo una fuerte sujección.
+\n- 10mm de grosor y 10 cm de anchura para una sujeción óptima del lumbar y del core. Conseguir más fuerza en el core es una de las claves para conseguir transferir fuerza de forma eficiente y levantar más pesado.
+\n-Logotipo PBO, Diseño oficial del equipo.
+\n
+\n&nbsp;","¡Ya disponible nuestro CINTURÓN PBO para para que mejores más que nunca tu rendimiento en los básicos! Consigue meter más kg a la barra sintiéndote más fuerte, seguro y compacto que nunca.
+\n
+\nEn PBO usamos materiales de la más alta calidad. Nuestro compromiso es conseguir un cinturón con buenos acabados y que sea duradero, no como otras marcas que se estropean fácilmente cuando afrontas levantamientos pesados.
+\n
+\n<strong>CARACTERISTICAS:</strong>
+\n
+\n- Materiales de alta calidad y remaches avanzados para evitar que se abra al realizar el movimiento.
+\n- Cinturón semi rígido, se adapta con facilidad ofreciendo una fuerte sujección.
+\n- 10mm de grosor y 10 cm de anchura para una sujeción óptima del lumbar y del core. Conseguir más fuerza en el core es una de las claves para conseguir transferir fuerza de forma eficiente y levantar más pesado.
+\n-Logotipo PBO, Diseño oficial del equipo.
+\n
+\nHay existencias.
+\n
+\n&nbsp;","taxable","","0","0","","","","","","","TIENDA > Accesorios, TIENDA","","Envío Growbeats","https://powerbuildingoficial.com/wp-content/uploads/2020/10/cinturonpbo.jpg, https://powerbuildingoficial.com/wp-content/uploads/2020/10/cinturonpbo4.jpg, https://powerbuildingoficial.com/wp-content/uploads/2020/10/cinturonpbo3-1.jpg","","Talla","L, M, S, XL","1","1","M"
+"32418","variation","","CINTURÓN POWERLIFTING PBO - XL","1","0","visible","","","taxable","parent","1","4","","","","","","3499","","","","","","Talla","XL","","1",""
+"32416","variation","","CINTURÓN POWERLIFTING PBO - M","1","0","visible","","","taxable","parent","0","0","","","","","","3499","","","","","","Talla","M","","1",""
+"32417","variation","","CINTURÓN POWERLIFTING PBO - L","1","0","visible","","","taxable","parent","0","0","","","","","","3499","","","","","","Talla","L","","1",""
+"32415","variation","","CINTURÓN POWERLIFTING PBO - S","1","0","visible","","","taxable","parent","1","4","","","","","","3499","","","","","","Talla","S","","1",""
+"","","","","","","visible","","","taxable","parent","","","","","","","","","","","","","","Talla","","","",""
+"H31206","variable","","BLUSA STICKER BOOM","1","1","visible","","Nuestras BLUSAS viene con escote tipo U, 2 bolsillos frontales y aberturas a los lados que le brindan un mejor ajuste al cuerpo, sin cierre ya que al ser licrado no es necesario y te brinda más comodidad.
+
+Están fabricados en telas de última tecnología como lo es el
+Antifluido stretch con elongación bidireccional, posee una composición de 88%
+poliéster - 12% Lycra, que además de brindar frescura y protección te da
+libertad de movimiento.
+
+El proceso de diseño es realizado
+por sublimación digital de alta calidad, para que los colores sean vivos y
+duraderos
+","taxable","parent","0","","","","","","","96000","BLUSA ESTAMPADA","","","STICKERBOOM 1.jpg, STICKERBOOM 2.jpg, STICKERBOOM 3.jpg, STICKERBOOM 4.jpg","","Talla","XS, S, M, L, XL, XXL","1","1","M"
+"H31206XS","variacion","","BLUSA STICKER BOOM XS","1","1","visible","","","taxable","parent","1","4","","","","","","96000","","","","","","Talla","XS","","",""
+"H31206S","variacion","","BLUSA STICKER BOOM S","1","1","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","S","","",""
+"H31206M","variacion","","BLUSA STICKER BOOM M","1","1","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","M","","",""
+"H31206L","variacion","","BLUSA STICKER BOOM L","1","1","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","L","","",""
+"H31206XL","variacion","","BLUSA STICKER BOOM XL","1","1","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","XL","","",""
+"H31206XXL","variacion","","BLUSA STICKER BOOM XXL","1","1","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","XXL","","",""
+"H31217","variable","","BLUSA OSOS ","1","1","visible","","Nuestras BLUSAS viene con escote tipo U, 2 bolsillos frontales y aberturas a los lados que le brindan un mejor ajuste al cuerpo, sin cierre ya que al ser licrado no es necesario y te brinda más comodidad.
+
+Están fabricados en telas de última tecnología como lo es el
+Antifluido stretch con elongación bidireccional, posee una composición de 88%
+poliéster - 12% Lycra, que además de brindar frescura y protección te da
+libertad de movimiento.
+
+El proceso de diseño es realizado
+por sublimación digital de alta calidad, para que los colores sean vivos y
+duraderos
+","taxable","parent","0","","","","","","","96000","BLUSA ESTAMPADA","","","OSOS 1 jpg, OSOS 2 jpg, OSOS 3 jpg, OSOS 4 jpg","","Talla","XS, S, M, L, XL, XXL","1","1","M"
+"H31217XS","variacion","","BLUSA OSOS XS","1","1","visible","","","taxable","parent","1","4","","","","","","96000","","","","","","Talla","XS","","",""
+"H31217S","variacion","","BLUSA OSOS S","1","1","visible","","","taxable","parent","1","0","","","","","","96000","","","","","","Talla","S","","",""
+"H31217M","variacion","","BLUSA OSOS M","1","1","visible","","","taxable","parent","1","4","","","","","","96000","","","","","","Talla","M","","",""
+"H31217L","variacion","","BLUSA OSOS L","1","1","visible","","","taxable","parent","1","4","","","","","","96000","","","","","","Talla","L","","",""
+"H31217XL","variacion","","BLUSA OSOS XL","1","1","visible","","","taxable","parent","1","4","","","","","","96000","","","","","","Talla","XL","","",""
+"H31217XXL","variacion","","BLUSA OSOS XXL","1","1","visible","","","taxable","parent","1","1","","","","","","96000","","","","","","Talla","XXL","","",""
+"H31204","variable","","BLUSA CATS ","1","1","visible","","Nuestras BLUSAS viene con escote tipo U, 2 bolsillos frontales y aberturas a los lados que le brindan un mejor ajuste al cuerpo, sin cierre ya que al ser licrado no es necesario y te brinda más comodidad.
+
+Están fabricados en telas de última tecnología como lo es el
+Antifluido stretch con elongación bidireccional, posee una composición de 88%
+poliéster - 12% Lycra, que además de brindar frescura y protección te da
+libertad de movimiento.
+
+El proceso de diseño es realizado
+por sublimación digital de alta calidad, para que los colores sean vivos y
+duraderos
+","taxable","parent","0","","","","","","","96000","BLUSA ESTAMPADA","","","CATS 1.jpg, CATS 2.jpg, CATS 3.jpg","","Talla","XS, S, M, L, XL, XXL","1","1","M"
+"H31204XS","variacion","","BLUSA CATS XS","1","1","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","XS","","",""
+"H31204S","variacion","","BLUSA CATS S","1","1","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","S","","",""
+"H31204M","variacion","","BLUSA CATS M","1","1","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","M","","",""
+"H31204L","variacion","","BLUSA CATS L","1","1","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","L","","",""
+"H31204XL","variacion","","BLUSA CATS XL","1","1","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","XL","","",""
+"H31204XXL","variacion","","BLUSA CATS XXL","1","1","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","XXL","","",""
+"H31216","variable","","BLUSA MONSTER ","1","1","visible","","Nuestras BLUSAS viene con escote tipo U, 2 bolsillos frontales y aberturas a los lados que le brindan un mejor ajuste al cuerpo, sin cierre ya que al ser licrado no es necesario y te brinda más comodidad.
+
+Están fabricados en telas de última tecnología como lo es el
+Antifluido stretch con elongación bidireccional, posee una composición de 88%
+poliéster - 12% Lycra, que además de brindar frescura y protección te da
+libertad de movimiento.
+
+El proceso de diseño es realizado
+por sublimación digital de alta calidad, para que los colores sean vivos y
+duraderos
+","taxable","parent","0","","","","","","","96000","BLUSA ESTAMPADA","","","MONSTER 1.jpg, MONSTER 2.jpg, MONSTER 3.jpg, MONSTER 4.jpg","","Talla","XS, S, M, L, XL, XXL","1","1","M"
+"H31216XS","variacion","","BLUSA MONSTER XS","1","1","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","XS","","",""
+"H31216S","variacion","","BLUSA MONSTER S","1","1","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","S","","",""
+"H31216M","variacion","","BLUSA MONSTER M","1","1","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","M","","",""
+"H31216L","variacion","","BLUSA MONSTER L","1","1","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","L","","",""
+"H31216XL","variacion","","BLUSA MONSTER XL","1","1","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","XL","","",""
+"H31216XXL","variacion","","BLUSA MONSTER XXL","1","1","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","XXL","","",""
+"H31221","variable","","BLUSA SPACECAT ","1","1","visible","","Nuestras BLUSAS viene con escote tipo U, 2 bolsillos frontales y aberturas a los lados que le brindan un mejor ajuste al cuerpo, sin cierre ya que al ser licrado no es necesario y te brinda más comodidad.
+
+Están fabricados en telas de última tecnología como lo es el
+Antifluido stretch con elongación bidireccional, posee una composición de 88%
+poliéster - 12% Lycra, que además de brindar frescura y protección te da
+libertad de movimiento.
+
+El proceso de diseño es realizado
+por sublimación digital de alta calidad, para que los colores sean vivos y
+duraderos
+","taxable","parent","0","","","","","","","96000","BLUSA ESTAMPADA","","","SPACECAT 1.jpg, SPACECAT 2.jpg, SPACECAT 3.jpg, SPACECAT 4.jpg","","Talla","XS, S, M, L, XL, XXL","1","1","M"
+"H31221XS","variacion","","BLUSA SPACECAT XS","1","1","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","XS","","",""
+"H31221S","variacion","","BLUSA SPACECAT S","1","1","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","S","","",""
+"H31221M","variacion","","BLUSA SPACECAT M","1","1","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","M","","",""
+"H31221L","variacion","","BLUSA SPACECAT L","1","1","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","L","","",""
+"H31221XL","variacion","","BLUSA SPACECAT XL","1","1","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","XL","","",""
+"H31221XXL","variacion","","BLUSA SPACECAT XXL","1","1","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","XXL","","",""
+"H31224","variable","","BLUSA LOL ","1","1","visible","","Nuestras BLUSAS viene con escote tipo U, 2 bolsillos frontales y aberturas a los lados que le brindan un mejor ajuste al cuerpo, sin cierre ya que al ser licrado no es necesario y te brinda más comodidad.
+
+Están fabricados en telas de última tecnología como lo es el
+Antifluido stretch con elongación bidireccional, posee una composición de 88%
+poliéster - 12% Lycra, que además de brindar frescura y protección te da
+libertad de movimiento.
+
+El proceso de diseño es realizado
+por sublimación digital de alta calidad, para que los colores sean vivos y
+duraderos
+","taxable","parent","0","","","","","","","96000","BLUSA ESTAMPADA","","","LOL 1.jpg, LOL 2.jpg, LOL 3.jpg","","Talla","XS, S, M, L, XL, XXL","1","1","M"
+"H31224XS","variacion","","BLUSA LOL XS","1","1","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","XS","","",""
+"H31224S","variacion","","BLUSA LOL S","1","1","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","S","","",""
+"H31224M","variacion","","BLUSA LOL M","1","1","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","M","","",""
+"H31224L","variacion","","BLUSA LOL L","1","1","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","L","","",""
+"H31224XL","variacion","","BLUSA LOL XL","1","1","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","XL","","",""
+"H31224XXL","variacion","","BLUSA LOL XXL","1","1","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","XXL","","",""
+"H31248","variable","","BLUSA RAINBOW ","1","1","visible","","Nuestras BLUSAS viene con escote tipo U, 2 bolsillos frontales y aberturas a los lados que le brindan un mejor ajuste al cuerpo, sin cierre ya que al ser licrado no es necesario y te brinda más comodidad.
+
+Están fabricados en telas de última tecnología como lo es el
+Antifluido stretch con elongación bidireccional, posee una composición de 88%
+poliéster - 12% Lycra, que además de brindar frescura y protección te da
+libertad de movimiento.
+
+El proceso de diseño es realizado
+por sublimación digital de alta calidad, para que los colores sean vivos y
+duraderos
+","taxable","parent","0","","","","","","","96000","BLUSA ESTAMPADA","","","RAINBOW.jpg","","Talla","XS, S, M, L, XL, XXL","1","1","M"
+"H31248XS","variacion","","BLUSA RAINBOW (XS)","1","1","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","XS","","",""
+"H31248S","variacion","","BLUSA RAINBOW (S)","1","1","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","S","","",""
+"H31248M","variacion","","BLUSA RAINBOW (M)","1","1","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","M","","",""
+"H31248L","variacion","","BLUSA RAINBOW (L)","1","1","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","L","","",""
+"H31248XL","variacion","","BLUSA RAINBOW (XL)","1","1","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","XL","","",""
+"H31248XXL","variacion","","BLUSA RAINBOW (XXL)","1","1","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","XXL","","",""
+"H31251","variable","","BLUSA AVOCADO ","1","1","visible","","Nuestras BLUSAS viene con escote tipo U, 2 bolsillos frontales y aberturas a los lados que le brindan un mejor ajuste al cuerpo, sin cierre ya que al ser licrado no es necesario y te brinda más comodidad.
+
+Están fabricados en telas de última tecnología como lo es el
+Antifluido stretch con elongación bidireccional, posee una composición de 88%
+poliéster - 12% Lycra, que además de brindar frescura y protección te da
+libertad de movimiento.
+
+El proceso de diseño es realizado
+por sublimación digital de alta calidad, para que los colores sean vivos y
+duraderos
+","taxable","parent","0","","","","","","","96000","BLUSA ESTAMPADA","","","AVOCADO.jpg","","Talla","XS, S, M, L, XL, XXL","1","1","M"
+"H31251XS","variacion","","BLUSA AVOCADO (XS)","1","1","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","XS","","",""
+"H31251S","variacion","","BLUSA AVOCADO (S)","1","1","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","S","","",""
+"H31251M","variacion","","BLUSA AVOCADO (M)","1","1","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","M","","",""
+"H31251L","variacion","","BLUSA AVOCADO (L)","1","1","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","L","","",""
+"H31251XL","variacion","","BLUSA AVOCADO (XL)","1","1","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","XL","","",""
+"H31251XXL","variacion","","BLUSA AVOCADO (XXL)","1","1","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","XXL","","",""
+"H31244","variable","","BLUSA SMALLBOX ","1","1","visible","","Nuestras BLUSAS viene con escote tipo U, 2 bolsillos frontales y aberturas a los lados que le brindan un mejor ajuste al cuerpo, sin cierre ya que al ser licrado no es necesario y te brinda más comodidad.
+
+Están fabricados en telas de última tecnología como lo es el
+Antifluido stretch con elongación bidireccional, posee una composición de 88%
+poliéster - 12% Lycra, que además de brindar frescura y protección te da
+libertad de movimiento.
+
+El proceso de diseño es realizado
+por sublimación digital de alta calidad, para que los colores sean vivos y
+duraderos
+","taxable","parent","0","","","","","","","96000","BLUSA ESTAMPADA","","","SMALLBOX.jpg","","Talla","XS, S, M, L, XL, XXL","1","1","M"
+"H31244XS","variacion","","BLUSA SMALLBOX (XS)","1","1","visible","","","taxable","parent","1","6","","","","","","96000","","","","","","Talla","XS","","",""
+"H31244S","variacion","","BLUSA SMALLBOX (S)","1","1","visible","","","taxable","parent","1","6","","","","","","96000","","","","","","Talla","S","","",""
+"H31244M","variacion","","BLUSA SMALLBOX (M)","1","1","visible","","","taxable","parent","1","6","","","","","","96000","","","","","","Talla","M","","",""
+"H31244L","variacion","","BLUSA SMALLBOX (L)","1","1","visible","","","taxable","parent","1","6","","","","","","96000","","","","","","Talla","L","","",""
+"H31244XL","variacion","","BLUSA SMALLBOX (XL)","1","1","visible","","","taxable","parent","1","6","","","","","","96000","","","","","","Talla","XL","","",""
+"H31244XXL","variacion","","BLUSA SMALLBOX (XXL)","1","1","visible","","","taxable","parent","1","6","","","","","","96000","","","","","","Talla","XXL","","",""
+"H31252","variable","","BLUSA GLOBE ","1","1","visible","","Nuestras BLUSAS viene con escote tipo U, 2 bolsillos frontales y aberturas a los lados que le brindan un mejor ajuste al cuerpo, sin cierre ya que al ser licrado no es necesario y te brinda más comodidad.
+
+Están fabricados en telas de última tecnología como lo es el
+Antifluido stretch con elongación bidireccional, posee una composición de 88%
+poliéster - 12% Lycra, que además de brindar frescura y protección te da
+libertad de movimiento.
+
+El proceso de diseño es realizado
+por sublimación digital de alta calidad, para que los colores sean vivos y
+duraderos
+","taxable","parent","0","","","","","","","96000","BLUSA ESTAMPADA","","","GLOBE.jpg","","Talla","XS, S, M, L, XL, XXL","1","1","M"
+"H31252XS","variacion","","BLUSA GLOBE (XS)","1","1","visible","","","taxable","parent","1","6","","","","","","96000","","","","","","Talla","XS","","",""
+"H31252S","variacion","","BLUSA GLOBE (S)","1","1","visible","","","taxable","parent","1","6","","","","","","96000","","","","","","Talla","S","","",""
+"H31252M","variacion","","BLUSA GLOBE (M)","1","1","visible","","","taxable","parent","1","6","","","","","","96000","","","","","","Talla","M","","",""
+"H31252L","variacion","","BLUSA GLOBE (L)","1","1","visible","","","taxable","parent","1","6","","","","","","96000","","","","","","Talla","L","","",""
+"H31252XL","variacion","","BLUSA GLOBE (XL)","1","1","visible","","","taxable","parent","1","6","","","","","","96000","","","","","","Talla","XL","","",""
+"H31252XXL","variacion","","BLUSA GLOBE (XXL)","1","1","visible","","","taxable","parent","1","6","","","","","","96000","","","","","","Talla","XXL","","",""
+"H31249","variable","","BLUSA ALIEN ","1","1","visible","","Nuestras BLUSAS viene con escote tipo U, 2 bolsillos frontales y aberturas a los lados que le brindan un mejor ajuste al cuerpo, sin cierre ya que al ser licrado no es necesario y te brinda más comodidad.
+
+Están fabricados en telas de última tecnología como lo es el
+Antifluido stretch con elongación bidireccional, posee una composición de 88%
+poliéster - 12% Lycra, que además de brindar frescura y protección te da
+libertad de movimiento.
+
+El proceso de diseño es realizado
+por sublimación digital de alta calidad, para que los colores sean vivos y
+duraderos
+","taxable","parent","0","","","","","","","96000","BLUSA ESTAMPADA","","","ALIEN.jpg","","Talla","XS, S, M, L, XL, XXL","1","1","M"
+"H31249XS","variacion","","BLUSA ALIEN (XS)","1","1","visible","","","taxable","parent","1","6","","","","","","96000","","","","","","Talla","XS","","",""
+"H31249S","variacion","","BLUSA ALIEN (S)","1","1","visible","","","taxable","parent","1","6","","","","","","96000","","","","","","Talla","S","","",""
+"H31249M","variacion","","BLUSA ALIEN (M)","1","1","visible","","","taxable","parent","1","6","","","","","","96000","","","","","","Talla","M","","",""
+"H31249L","variacion","","BLUSA ALIEN (L)","1","1","visible","","","taxable","parent","1","6","","","","","","96000","","","","","","Talla","L","","",""
+"H31249XL","variacion","","BLUSA ALIEN (XL)","1","1","visible","","","taxable","parent","1","6","","","","","","96000","","","","","","Talla","XL","","",""
+"H31249XXL","variacion","","BLUSA ALIEN (XXL)","1","1","visible","","","taxable","parent","1","6","","","","","","96000","","","","","","Talla","XXL","","",""
+"H31246","variable","","BLUSA OCTOPUS ","1","1","visible","","Nuestras BLUSAS viene con escote tipo U, 2 bolsillos frontales y aberturas a los lados que le brindan un mejor ajuste al cuerpo, sin cierre ya que al ser licrado no es necesario y te brinda más comodidad.
+
+Están fabricados en telas de última tecnología como lo es el
+Antifluido stretch con elongación bidireccional, posee una composición de 88%
+poliéster - 12% Lycra, que además de brindar frescura y protección te da
+libertad de movimiento.
+
+El proceso de diseño es realizado
+por sublimación digital de alta calidad, para que los colores sean vivos y
+duraderos
+","taxable","parent","0","","","","","","","96000","BLUSA ESTAMPADA","","","OCTOPUS.jpg","","Talla","XS, S, M, L, XL, XXL","1","1","M"
+"H31246XS","variacion","","BLUSA OCTOPUS (XS)","1","1","visible","","","taxable","parent","1","6","","","","","","96000","","","","","","Talla","XS","","",""
+"H31246S","variacion","","BLUSA OCTOPUS (S)","1","1","visible","","","taxable","parent","1","6","","","","","","96000","","","","","","Talla","S","","",""
+"H31246M","variacion","","BLUSA OCTOPUS (M)","1","1","visible","","","taxable","parent","1","6","","","","","","96000","","","","","","Talla","M","","",""
+"H31246L","variacion","","BLUSA OCTOPUS (L)","1","1","visible","","","taxable","parent","1","6","","","","","","96000","","","","","","Talla","L","","",""
+"H31246XL","variacion","","BLUSA OCTOPUS (XL)","1","1","visible","","","taxable","parent","1","6","","","","","","96000","","","","","","Talla","XL","","",""
+"H31246XXL","variacion","","BLUSA OCTOPUS (XXL)","1","1","visible","","","taxable","parent","1","6","","","","","","96000","","","","","","Talla","XXL","","",""
+"H31250","variable","","BLUSA FLOWER ","1","1","visible","","Nuestras BLUSAS viene con escote tipo U, 2 bolsillos frontales y aberturas a los lados que le brindan un mejor ajuste al cuerpo, sin cierre ya que al ser licrado no es necesario y te brinda más comodidad.
+
+Están fabricados en telas de última tecnología como lo es el
+Antifluido stretch con elongación bidireccional, posee una composición de 88%
+poliéster - 12% Lycra, que además de brindar frescura y protección te da
+libertad de movimiento.
+
+El proceso de diseño es realizado
+por sublimación digital de alta calidad, para que los colores sean vivos y
+duraderos
+","taxable","parent","0","","","","","","","96000","BLUSA ESTAMPADA","","","FLOWER.jpg","","Talla","XS, S, M, L, XL, XXL","1","1","M"
+"H31250XS","variacion","","BLUSA FLOWER (XS)","1","1","visible","","","taxable","parent","1","6","","","","","","96000","","","","","","Talla","XS","","",""
+"H31250S","variacion","","BLUSA FLOWER (S)","1","1","visible","","","taxable","parent","1","6","","","","","","96000","","","","","","Talla","S","","",""
+"H31250M","variacion","","BLUSA FLOWER (M)","1","1","visible","","","taxable","parent","1","6","","","","","","96000","","","","","","Talla","M","","",""
+"H31250L","variacion","","BLUSA FLOWER (L)","1","1","visible","","","taxable","parent","1","6","","","","","","96000","","","","","","Talla","L","","",""
+"H31250XL","variacion","","BLUSA FLOWER (XL)","1","1","visible","","","taxable","parent","1","6","","","","","","96000","","","","","","Talla","XL","","",""
+"H31250XXL","variacion","","BLUSA FLOWER (XXL)","1","1","visible","","","taxable","parent","1","6","","","","","","96000","","","","","","Talla","XXL","","",""
+"H31247","variable","","BLUSA COOKIES ","1","1","visible","","Nuestras BLUSAS viene con escote tipo U, 2 bolsillos frontales y aberturas a los lados que le brindan un mejor ajuste al cuerpo, sin cierre ya que al ser licrado no es necesario y te brinda más comodidad.
+
+Están fabricados en telas de última tecnología como lo es el
+Antifluido stretch con elongación bidireccional, posee una composición de 88%
+poliéster - 12% Lycra, que además de brindar frescura y protección te da
+libertad de movimiento.
+
+El proceso de diseño es realizado
+por sublimación digital de alta calidad, para que los colores sean vivos y
+duraderos
+","taxable","parent","0","","","","","","","96000","BLUSA ESTAMPADA","","","COOKIES.jpg","","Talla","XS, S, M, L, XL, XXL","1","1","M"
+"H31247XS","variacion","","BLUSA COOKIES (XS)","1","1","visible","","","taxable","parent","1","6","","","","","","96000","","","","","","Talla","XS","","",""
+"H31247S","variacion","","BLUSA COOKIES (S)","1","1","visible","","","taxable","parent","1","6","","","","","","96000","","","","","","Talla","S","","",""
+"H31247M","variacion","","BLUSA COOKIES (M)","1","1","visible","","","taxable","parent","1","6","","","","","","96000","","","","","","Talla","M","","",""
+"H31247L","variacion","","BLUSA COOKIES (L)","1","1","visible","","","taxable","parent","1","6","","","","","","96000","","","","","","Talla","L","","",""
+"H31247XL","variacion","","BLUSA COOKIES (XL)","1","1","visible","","","taxable","parent","1","6","","","","","","96000","","","","","","Talla","XL","","",""
+"H31247XXL","variacion","","BLUSA COOKIES (XXL)","1","1","visible","","","taxable","parent","1","6","","","","","","96000","","","","","","Talla","XXL","","",""
+"H31245","variable","","BLUSA REDLOVE ","1","1","visible","","Nuestras BLUSAS viene con escote tipo U, 2 bolsillos frontales y aberturas a los lados que le brindan un mejor ajuste al cuerpo, sin cierre ya que al ser licrado no es necesario y te brinda más comodidad.
+
+Están fabricados en telas de última tecnología como lo es el
+Antifluido stretch con elongación bidireccional, posee una composición de 88%
+poliéster - 12% Lycra, que además de brindar frescura y protección te da
+libertad de movimiento.
+
+El proceso de diseño es realizado
+por sublimación digital de alta calidad, para que los colores sean vivos y
+duraderos
+","taxable","parent","0","","","","","","","96000","BLUSA ESTAMPADA","","","REDLOVE.jpg","","Talla","XS, S, M, L, XL, XXL","1","1","M"
+"H31245XS","variacion","","BLUSA REDLOVE (XS)","1","1","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","XS","","",""
+"H31245S","variacion","","BLUSA REDLOVE (S)","1","1","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","S","","",""
+"H31245M","variacion","","BLUSA REDLOVE (M)","1","1","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","M","","",""
+"H31245L","variacion","","BLUSA REDLOVE (L)","1","1","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","L","","",""
+"H31245XL","variacion","","BLUSA REDLOVE (XL)","1","1","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","XL","","",""
+"H31245XXL","variacion","","BLUSA REDLOVE (XXL)","1","1","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","XXL","","",""
+"H31243","variable","","BLUSA FACECAT ","1","1","visible","","Nuestras BLUSAS viene con escote tipo U, 2 bolsillos frontales y aberturas a los lados que le brindan un mejor ajuste al cuerpo, sin cierre ya que al ser licrado no es necesario y te brinda más comodidad.
+
+Están fabricados en telas de última tecnología como lo es el
+Antifluido stretch con elongación bidireccional, posee una composición de 88%
+poliéster - 12% Lycra, que además de brindar frescura y protección te da
+libertad de movimiento.
+
+El proceso de diseño es realizado por sublimación digital de alta calidad, para que los colores sean vivos y
+duraderos
+","taxable","parent","0","","","","","","","96000","BLUSA ESTAMPADA","","","FACECAT.jpg","","Talla","XS, S, M, L, XL, XXL","1","1","M"
+"H31243XS","variacion","","BLUSA FACECAT (XS)","1","1","visible","","","taxable","parent","1","6","","","","","","96000","","","","","","Talla","XS","","",""
+"H31243S","variacion","","BLUSA FACECAT (S)","1","1","visible","","","taxable","parent","1","6","","","","","","96000","","","","","","Talla","S","","",""
+"H31243M","variacion","","BLUSA FACECAT (M)","1","1","visible","","","taxable","parent","1","6","","","","","","96000","","","","","","Talla","M","","",""
+"H31243L","variacion","","BLUSA FACECAT (L)","1","1","visible","","","taxable","parent","1","6","","","","","","96000","","","","","","Talla","L","","",""
+"H31243XL","variacion","","BLUSA FACECAT (XL)","1","1","visible","","","taxable","parent","1","6","","","","","","96000","","","","","","Talla","XL","","",""
+"H31243XXL","variacion","","BLUSA FACECAT (XXL)","1","1","visible","","","taxable","parent","1","6","","","","","","96000","","","","","","Talla","XXL","","",""
+"H31236","variable","","BLUSA CRAZY ","1","1","visible","","Nuestras BLUSAS viene con escote tipo U, 2 bolsillos frontales y aberturas a los lados que le brindan un mejor ajuste al cuerpo, sin cierre ya que al ser licrado no es necesario y te brinda más comodidad.
+
+Están fabricados en telas de última tecnología como lo es el
+Antifluido stretch con elongación bidireccional, posee una composición de 88%
+poliéster - 12% Lycra, que además de brindar frescura y protección te da
+libertad de movimiento.
+
+El proceso de diseño es realizado por sublimación digital de alta calidad, para que los colores sean vivos y
+duraderos","taxable","parent","0","","","","","","","96000","BLUSA ESTAMPADA","","","CRAZY.jpg","","Talla","XS, S, M, L, XL, XXL","1","1","M"
+"H31236XS","variacion","","BLUSA CRAZY (XS)","1","1","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","XS","","",""
+"H31236S","variacion","","BLUSA CRAZY (S)","1","1","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","S","","",""
+"H31236M","variacion","","BLUSA CRAZY (M)","1","1","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","M","","",""
+"H31236L","variacion","","BLUSA CRAZY (L)","1","1","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","L","","",""
+"H31236XL","variacion","","BLUSA CRAZY (XL)","1","1","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","XL","","",""
+"H31236XXL","variacion","","BLUSA CRAZY (XXL)","1","1","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","XXL","","",""
+"H31237","variable","","BLUSA VIRUS ","1","1","visible","","Nuestras BLUSAS viene con escote tipo U, 2 bolsillos frontales y aberturas a los lados que le brindan un mejor ajuste al cuerpo, sin cierre ya que al ser licrado no es necesario y te brinda más comodidad.
+
+Están fabricados en telas de última tecnología como lo es el
+Antifluido stretch con elongación bidireccional, posee una composición de 88%
+poliéster - 12% Lycra, que además de brindar frescura y protección te da
+libertad de movimiento.
+
+El proceso de diseño es realizado por sublimación digital de alta calidad, para que los colores sean vivos y
+duraderos","taxable","parent","0","","","","","","","96000","BLUSA ESTAMPADA","","","VIRUS 1.jpg, virus 2.jpg, virus 3.jpg, virus 4.jpg, virus 5. Jpg, virus 6.jpg","","Talla","XS, S, M, L, XL, XXL","1","1","M"
+"H31237XS","variacion","","BLUSA VIRUS (XS)","1","1","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","XS","","",""
+"H31237S","variacion","","BLUSA VIRUS (S)","1","1","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","S","","",""
+"H31237M","variacion","","BLUSA VIRUS (M)","1","1","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","M","","",""
+"H31237L","variacion","","BLUSA VIRUS (L)","1","1","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","L","","",""
+"H31237XL","variacion","","BLUSA VIRUS (XL)","1","1","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","XL","","",""
+"H31237XXL","variacion","","BLUSA VIRUS (XXL)","1","1","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","XXL","","",""
+"H31240","variable","","BLUSA HEART ","1","0","visible","","Nuestras BLUSAS viene con escote tipo U, 2 bolsillos frontales y aberturas a los lados que le brindan un mejor ajuste al cuerpo, sin cierre ya que al ser licrado no es necesario y te brinda más comodidad.
+
+Están fabricados en telas de última tecnología como lo es el
+Antifluido stretch con elongación bidireccional, posee una composición de 88%
+poliéster - 12% Lycra, que además de brindar frescura y protección te da
+libertad de movimiento.
+
+El proceso de diseño es realizado por sublimación digital de alta calidad, para que los colores sean vivos y
+duraderos","taxable","parent","0","","","","","","","96000","BLUSA ESTAMPADA","","","Heart. Jpg","","Talla","XS, XL","1","1","XS"
+"H31240XS","variacion","","BLUSA HEART (XS)","1","0","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","XS","","",""
+"H31240XL","variacion","","BLUSA HEART (XL)","1","0","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","XL","","",""
+"H31239","variacion","","BLUSA SUPER ","1","0","visible","","Nuestras BLUSAS viene con escote tipo U, 2 bolsillos frontales y aberturas a los lados que le brindan un mejor ajuste al cuerpo, sin cierre ya que al ser licrado no es necesario y te brinda más comodidad.
+
+Están fabricados en telas de última tecnología como lo es el
+Antifluido stretch con elongación bidireccional, posee una composición de 88%
+poliéster - 12% Lycra, que además de brindar frescura y protección te da
+libertad de movimiento.
+
+El proceso de diseño es realizado por sublimación digital de alta calidad, para que los colores sean vivos y
+duraderos","taxable","parent","0","","","","","","","96000","BLUSA ESTAMPADA","","","Super 1.jpg, super 2. Jpg, super 3. jpg","","Talla","XS, S, XL","1","1","XS"
+"H31239XS","variacion","","BLUSA SUPER (XS)","1","0","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","XS","","",""
+"H31239S","variacion","","BLUSA SUPER (S)","1","0","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","S","","",""
+"H31239XL","variacion","","BLUSA SUPER (XL)","1","0","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","XL","","",""
+"H31241","variable","","BLUSA STARS ","1","0","visible","","Nuestras BLUSAS viene con escote tipo U, 2 bolsillos frontales y aberturas a los lados que le brindan un mejor ajuste al cuerpo, sin cierre ya que al ser licrado no es necesario y te brinda más comodidad.
+
+Están fabricados en telas de última tecnología como lo es el
+Antifluido stretch con elongación bidireccional, posee una composición de 88%
+poliéster - 12% Lycra, que además de brindar frescura y protección te da
+libertad de movimiento.
+
+El proceso de diseño es realizado por sublimación digital de alta calidad, para que los colores sean vivos y
+duraderos","taxable","parent","0","","","","","","","96000","","","","Stars 1.jpg, stars 2.jpg, stars 3.jpg","","Talla","XS, XXL","1","1","XS"
+"H31241XS","variacion","","BLUSA STARS (XS)","1","0","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","XS","","",""
+"H31241XXL","variacion","","BLUSA STARS (XXL)","1","0","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","XXL","","",""
+"H31238","variable","","BLUSA EMOTICONS ","1","0","visible","","Nuestras BLUSAS viene con escote tipo U, 2 bolsillos frontales y aberturas a los lados que le brindan un mejor ajuste al cuerpo, sin cierre ya que al ser licrado no es necesario y te brinda más comodidad.
+
+Están fabricados en telas de última tecnología como lo es el
+Antifluido stretch con elongación bidireccional, posee una composición de 88%
+poliéster - 12% Lycra, que además de brindar frescura y protección te da
+libertad de movimiento.
+
+El proceso de diseño es realizado por sublimación digital de alta calidad, para que los colores sean vivos y
+duraderos","taxable","parent","0","","","","","","","96000","BLUSA ESTAMPADA","","","Emoticons 1.jpg, emoticons 2.jpg","","Talla","XS, S, M,  XL","1","1","M"
+"H31238XS","variacion","","BLUSA EMOTICONS (XS)","1","0","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","XS","","",""
+"H31238S","variacion","","BLUSA EMOTICONS (S)","1","0","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","S","","",""
+"H31238M","variacion","","BLUSA EMOTICONS (M)","1","0","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","M","","",""
+"H31238XL","variacion","","BLUSA EMOTICONS (XL)","1","0","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","XL","","",""
+"H31235","variable","","BLUSA FLYPETS ","1","0","visible","","Nuestras BLUSAS viene con escote tipo U, 2 bolsillos frontales y aberturas a los lados que le brindan un mejor ajuste al cuerpo, sin cierre ya que al ser licrado no es necesario y te brinda más comodidad.
+
+Están fabricados en telas de última tecnología como lo es el
+Antifluido stretch con elongación bidireccional, posee una composición de 88%
+poliéster - 12% Lycra, que además de brindar frescura y protección te da
+libertad de movimiento.
+
+El proceso de diseño es realizado por sublimación digital de alta calidad, para que los colores sean vivos y
+duraderos","taxable","parent","0","","","","","","","96000","BLUSA ESTAMPADA","","","Flypets 1.jpg, flypets 2.jpg, flypets 3.jpg","","Talla","XS, S,  XL","1","1","XS"
+"H31235XS","variacion","","BLUSA FLYPETS (XS)","1","0","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","XS","","",""
+"H31235S","variacion","","BLUSA FLYPETS (S)","1","0","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","S","","",""
+"H31235XL","variacion","","BLUSA FLYPETS (XL)","1","0","visible","","","taxable","parent","1","2","","","","","","96000","","","","","","Talla","XL","","",""
+"H23501","variable","","PANTALON NEGRO NOVA","1","0","visible","","Nuestros PANTALONES son tipo cargo con 4 bolsillos, elástico semiexpuesto, ajuste por cordón interno y abertura en la bota para mejorar la caída con el calzado.
+
+Están fabricados en telas de última tecnología como lo es el
+Antifluido stretch con elongación bidireccional, posee una composición de 88%
+poliéster - 12% Lycra, que además de brindar frescura y protección te da
+libertad de movimiento.
+","taxable","parent","0","","","","","","20%","65000","PANTALÓN UNICOLOR","","","Pantalón negro 1, pantalón negro 2, pantalón negro 3","","Talla","XS, S, M, L, XL, XXL","1","1","M"
+"H23501XS","variacion","","PANTALON NEGRO NOVA XS","1","0","visible","","","taxable","parent","1","10","","","","","20%","65000","","","","","","Talla","XS","","",""
+"H23501S","variacion","","PANTALON NEGRO NOVA S","1","0","visible","","","taxable","parent","1","10","","","","","20%","65000","","","","","","Talla","S","","",""
+"H23501M","variacion","","PANTALON NEGRO NOVA M","1","0","visible","","","taxable","parent","1","10","","","","","20%","65000","","","","","","Talla","M","","",""
+"H23501L","variacion","","PANTALON NEGRO NOVA L","1","0","visible","","","taxable","parent","1","10","","","","","20%","65000","","","","","","Talla","L","","",""
+"H23501XL","variacion","","PANTALON NEGRO NOVA XL","1","0","visible","","","taxable","parent","1","10","","","","","20%","65000","","","","","","Talla","XL","","",""
+"H23501XXL","variacion","","PANTALON NEGRO NOVA XXL","1","0","visible","","","taxable","parent","1","10","","","","","20%","65000","","","","","","Talla","XXL","","",""
+"H23504","variable","","PANTALON AZUL O NOVA ","1","0","visible","","Nuestros PANTALONES son tipo cargo con 4 bolsillos, elástico semiexpuesto, ajuste por cordón interno y abertura en la bota para mejorar la caída con el calzado.
+
+Están fabricados en telas de última tecnología como lo es el
+Antifluido stretch con elongación bidireccional, posee una composición de 88%
+poliéster - 12% Lycra, que además de brindar frescura y protección te da
+libertad de movimiento.
+","taxable","parent","0","","","","","","","65000","PANTALÓN UNICOLOR","","","Pantalón azul o 1, pantalón azul o 2","","Talla","XS, S, M, L, XL, XXL","1","1","M"
+"H23504XS","variacion","","PANTALON AZUL O NOVA XS","1","0","visible","","","taxable","parent","1","10","","","","","20%","65000","","","","","","Talla","XS","","",""
+"H23504S","variacion","","PANTALON AZUL O NOVA S","1","0","visible","","","taxable","parent","1","10","","","","","20%","65000","","","","","","Talla","S","","",""
+"H23504M","variacion","","PANTALON AZUL O NOVA M","1","0","visible","","","taxable","parent","1","10","","","","","20%","65000","","","","","","Talla","M","","",""
+"H23504L","variacion","","PANTALON AZUL O NOVA L","1","0","visible","","","taxable","parent","1","10","","","","","20%","65000","","","","","","Talla","L","","",""
+"H23504XL","variacion","","PANTALON AZUL O NOVA XL","1","0","visible","","","taxable","parent","1","10","","","","","20%","65000","","","","","","Talla","XL","","",""
+"H23504XXL","variacion","","PANTALON AZUL O NOVA XXL","1","0","visible","","","taxable","parent","1","10","","","","","20%","65000","","","","","","Talla","XXL","","",""
+"H23502","variable","","PANTALON GRIS O NOVA ","1","0","visible","","Nuestros PANTALONES son tipo cargo con 4 bolsillos, elástico semiexpuesto, ajuste por cordón interno y abertura en la bota para mejorar la caída con el calzado.
+
+Están fabricados en telas de última tecnología como lo es el
+Antifluido stretch con elongación bidireccional, posee una composición de 88%
+poliéster - 12% Lycra, que además de brindar frescura y protección te da
+libertad de movimiento.
+","taxable","parent","0","","","","","","","65000","PANTALÓN UNICOLOR","","","Pantalón gris o 1, pantalón gris o 2, pantalón gris o 3, pantalón gris o 4","","Talla","XS, S, M, L, XL, XXL","1","1","M"
+"H23502XS","variacion","","PANTALON GRIS O NOVA XS","1","0","visible","","","taxable","parent","1","10","","","","","20%","65000","","","","","","Talla","XS","","",""
+"H23502S","variacion","","PANTALON GRIS O NOVA S","1","0","visible","","","taxable","parent","1","10","","","","","20%","65000","","","","","","Talla","S","","",""
+"H23502M","variacion","","PANTALON GRIS O NOVA M","1","0","visible","","","taxable","parent","1","10","","","","","20%","65000","","","","","","Talla","M","","",""
+"H23502L","variacion","","PANTALON GRIS O NOVA L","1","0","visible","","","taxable","parent","1","10","","","","","20%","65000","","","","","","Talla","L","","",""
+"H23502XL","variacion","","PANTALON GRIS O NOVA XL","1","0","visible","","","taxable","parent","1","10","","","","","20%","65000","","","","","","Talla","XL","","",""
+"H23502XXL","variacion","","PANTALON GRIS O NOVA XXL","1","0","visible","","","taxable","parent","1","10","","","","","20%","65000","","","","","","Talla","XXL","","",""
+"H23505","variable","","PANTALON FUCSIA NOVA ","1","0","visible","","Nuestros PANTALONES son tipo cargo con 4 bolsillos, elástico semiexpuesto, ajuste por cordón interno y abertura en la bota para mejorar la caída con el calzado.
+
+Están fabricados en telas de última tecnología como lo es el
+Antifluido stretch con elongación bidireccional, posee una composición de 88%
+poliéster - 12% Lycra, que además de brindar frescura y protección te da
+libertad de movimiento.
+","taxable","parent","0","","","","","","","65000","PANTALÓN UNICOLOR","","","Pantalón fucsia 1, pantalón fucsia 2, pantalón fucsia 3, pantalón fucsia 4","","Talla","XS, S, M, L, XL, XXL","1","1","M"
+"H23505XS","variacion","","PANTALON FUCSIA NOVA XS","1","0","visible","","","taxable","parent","1","10","","","","","20%","65000","","","","","","Talla","XS","","",""
+"H23505S","variacion","","PANTALON FUCSIA NOVA S","1","0","visible","","","taxable","parent","1","10","","","","","20%","65000","","","","","","Talla","S","","",""
+"H23505M","variacion","","PANTALON FUCSIA NOVA M","1","0","visible","","","taxable","parent","1","10","","","","","20%","65000","","","","","","Talla","M","","",""
+"H23505L","variacion","","PANTALON FUCSIA NOVA L","1","0","visible","","","taxable","parent","1","10","","","","","20%","65000","","","","","","Talla","L","","",""
+"H23505XL","variacion","","PANTALON FUCSIA NOVA XL","1","0","visible","","","taxable","parent","1","10","","","","","20%","65000","","","","","","Talla","XL","","",""
+"H23505XXL","variacion","","PANTALON FUCSIA NOVA XXL","1","0","visible","","","taxable","parent","1","10","","","","","20%","65000","","","","","","Talla","XXL","","",""
+"H23511","variable","","PANTALON ROJO NOVA ","1","0","visible","","Nuestros PANTALONES son tipo cargo con 4 bolsillos, elástico semiexpuesto, ajuste por cordón interno y abertura en la bota para mejorar la caída con el calzado.
+
+Están fabricados en telas de última tecnología como lo es el
+Antifluido stretch con elongación bidireccional, posee una composición de 88%
+poliéster - 12% Lycra, que además de brindar frescura y protección te da
+libertad de movimiento.
+","taxable","parent","0","","","","","","","65000","PANTALÓN UNICOLOR","","","","","Talla","XS, S, M, L, XL, XXL","1","1","M"
+"H23511XS","variacion","","PANTALON ROJO NOVA XS","1","0","visible","","","taxable","parent","1","10","","","","","20%","65000","","","","","","Talla","XS","","",""
+"H23511S","variacion","","PANTALON ROJO NOVA S","1","0","visible","","","taxable","parent","1","10","","","","","20%","65000","","","","","","Talla","S","","",""
+"H23511M","variacion","","PANTALON ROJO NOVA M","1","0","visible","","","taxable","parent","1","10","","","","","20%","65000","","","","","","Talla","M","","",""
+"H23511L","variacion","","PANTALON ROJO NOVA L","1","0","visible","","","taxable","parent","1","10","","","","","20%","65000","","","","","","Talla","L","","",""
+"H23511XL","variacion","","PANTALON ROJO NOVA XL","1","0","visible","","","taxable","parent","1","10","","","","","20%","65000","","","","","","Talla","XL","","",""
+"H23511XXL","variacion","","PANTALON ROJO NOVA XXL","1","0","visible","","","taxable","parent","1","10","","","","","20%","65000","","","","","","Talla","XXL","","",""
+"H23512","variable","","PANTALON JADE NOVA ","1","0","visible","","Nuestros PANTALONES son tipo cargo con 4 bolsillos, elástico semiexpuesto, ajuste por cordón interno y abertura en la bota para mejorar la caída con el calzado.
+
+Están fabricados en telas de última tecnología como lo es el
+Antifluido stretch con elongación bidireccional, posee una composición de 88%
+poliéster - 12% Lycra, que además de brindar frescura y protección te da
+libertad de movimiento.
+","taxable","parent","0","","","","","","","65000","PANTALÓN UNICOLOR","","","","","Talla","XS, S, M, L, XL, XXL","1","1","M"
+"H23512XS","variacion","","PANTALON JADE NOVA (XS)","1","0","visible","","","taxable","parent","1","10","","","","","20%","65000","","","","","","Talla","XS","","",""
+"H23512S","variacion","","PANTALON JADE NOVA (S)","1","0","visible","","","taxable","parent","1","10","","","","","20%","65000","","","","","","Talla","S","","",""
+"H23512M","variacion","","PANTALON JADE NOVA (M)","1","0","visible","","","taxable","parent","1","10","","","","","20%","65000","","","","","","Talla","M","","",""
+"H23512L","variacion","","PANTALON JADE NOVA (L)","1","0","visible","","","taxable","parent","1","10","","","","","20%","65000","","","","","","Talla","L","","",""
+"H23512XL","variacion","","PANTALON JADE NOVA (XL)","1","0","visible","","","taxable","parent","1","10","","","","","20%","65000","","","","","","Talla","XL","","",""
+"H23512XXL","variacion","","PANTALON JADE NOVA (XXL)","1","0","visible","","","taxable","parent","1","10","","","","","20%","65000","","","","","","Talla","XXL","","",""
+"H23510","variable","","PANTALON VINO NOVA ","1","0","visible","","Nuestros PANTALONES son tipo cargo con 4 bolsillos, elástico semiexpuesto, ajuste por cordón interno y abertura en la bota para mejorar la caída con el calzado.
+
+Están fabricados en telas de última tecnología como lo es el
+Antifluido stretch con elongación bidireccional, posee una composición de 88%
+poliéster - 12% Lycra, que además de brindar frescura y protección te da
+libertad de movimiento.
+","taxable","parent","0","","","","","","","65000","PANTALÓN UNICOLOR","","","","","Talla","XS, S, M, L, XL, XXL","1","1","M"
+"H23510XS","variacion","","PANTALON VINO NOVA XS","1","0","visible","","","taxable","parent","1","10","","","","","20%","65000","","","","","","Talla","XS","","",""
+"H23510S","variacion","","PANTALON VINO NOVA S","1","0","visible","","","taxable","parent","1","10","","","","","20%","65000","","","","","","Talla","S","","",""
+"H23510M","variacion","","PANTALON VINO NOVA M","1","0","visible","","","taxable","parent","1","10","","","","","20%","65000","","","","","","Talla","M","","",""
+"H23510L","variacion","","PANTALON VINO NOVA L","1","0","visible","","","taxable","parent","1","10","","","","","20%","65000","","","","","","Talla","L","","",""
+"H23510XL","variacion","","PANTALON VINO NOVA XL","1","0","visible","","","taxable","parent","1","10","","","","","20%","65000","","","","","","Talla","XL","","",""
+"H23510XXL","variacion","","PANTALON VINO NOVA XXL","1","0","visible","","","taxable","parent","1","10","","","","","20%","65000","","","","","","Talla","XXL","","",""
+"HS407","variable","","SPORTFIT NEGRO ","1","1","visible","","Blusa viene con escote tipo V, 2 bolsillos frontales y aberturas a los lados que le brindan un mejor ajuste al cuerpo, sin cierre ya que al ser licrado no es necesario y te brinda más comodidad.
+
+Pantalón tipo jogger con elástico en la bota, con 2 bolsillos traseros y 2 laterales, cintura con elástico expuesto para ayor comodidad.
+ 
+Están fabricados en telas de última tecnología como lo es el Antifluido stretch con elongación bidireccional y vivos en tela deportiva antimicrobial que además de brindar frescura y protección te da libertad de movimiento.
+
+","taxable","parent","0","","","","","","","178000","UNIFORME SPORTFIT","","","Sporfit negro 1, sporfit negro 2, sporfit negro 3, sporfit negro 4","","Talla","XS, S, M, L, XL","1","1","M"
+"HS407XS","variacion","","SPORTFIT NEGRO XS","1","1","visible","","","taxable","parent","0","0","","","","","","178000","","","","","","Talla","XS","","",""
+"HS407S","variacion","","SPORTFIT NEGRO S","1","1","visible","","","taxable","parent","1","2","","","","","","178000","","","","","","Talla","S","","",""
+"HS407M","variacion","","SPORTFIT NEGRO M","1","1","visible","","","taxable","parent","1","4","","","","","","178000","","","","","","Talla","M","","",""
+"HS407L","variacion","","SPORTFIT NEGRO L","1","1","visible","","","taxable","parent","1","4","","","","","","178000","","","","","","Talla","L","","",""
+"HS407XL","variacion","","SPORTFIT NEGRO XL","1","1","visible","","","taxable","parent","1","2","","","","","","178000","","","","","","Talla","XL","","",""
+"HS408","variable","","SPORTFIT AZUL O ","1","1","visible","","Blusa viene con escote tipo V, 2 bolsillos frontales y aberturas a los lados que le brindan un mejor ajuste al cuerpo, sin cierre ya que al ser licrado no es necesario y te brinda más comodidad.
+
+Pantalón tipo jogger con elástico en la bota, con 2 bolsillos traseros y 2 laterales, cintura con elástico expuesto para ayor comodidad.
+ 
+Están fabricados en telas de última tecnología como lo es el Antifluido stretch con elongación bidireccional y vivos en tela deportiva antimicrobial que además de brindar frescura y protección te da libertad de movimiento.
+
+","taxable","parent","0","","","","","","","178000","UNIFORME SPORTFIT","","","Sporfit azul o 1, sporfit azul o 2, sporfit azul o 3, sporfit azul o 4","","Talla","XS, S, M, L, XL","1","1","M"
+"HS408XS","variacion","","SPORTFIT AZUL O XS","1","1","visible","","","taxable","parent","1","1","","","","","","178000","","","","","","Talla","XS","","",""
+"HS408S","variacion","","SPORTFIT AZUL O S","1","1","visible","","","taxable","parent","1","4","","","","","","178000","","","","","","Talla","S","","",""
+"HS408M","variacion","","SPORTFIT AZUL O M","1","1","visible","","","taxable","parent","1","4","","","","","","178000","","","","","","Talla","M","","",""
+"HS408L","variacion","","SPORTFIT AZUL O L","1","1","visible","","","taxable","parent","1","4","","","","","","178000","","","","","","Talla","L","","",""
+"HS408XL","variacion","","SPORTFIT AZUL O XL","1","1","visible","","","taxable","parent","1","4","","","","","","178000","","","","","","Talla","XL","","",""
+"HS409","variable","","SPORTFIT GRIS C ","1","1","visible","","Blusa viene con escote tipo V, 2 bolsillos frontales y aberturas a los lados que le brindan un mejor ajuste al cuerpo, sin cierre ya que al ser licrado no es necesario y te brinda más comodidad.
+
+Pantalón tipo jogger con elástico en la bota, con 2 bolsillos traseros y 2 laterales, cintura con elástico expuesto para ayor comodidad.
+ 
+Están fabricados en telas de última tecnología como lo es el Antifluido stretch con elongación bidireccional y vivos en tela deportiva antimicrobial que además de brindar frescura y protección te da libertad de movimiento.
+
+","taxable","parent","0","","","","","","","178000","UNIFORME SPORTFIT","","","Sporfit gris 1, sporfit gris 2, sporfit gris 3, sporfit gris 4","","Talla","XS, S, M, L, XL","1","1","M"
+"HS409XS","variacion","","SPORTFIT GRIS C XS","1","1","visible","","","taxable","parent","1","4","","","","","","178000","","","","","","Talla","XS","","",""
+"HS409S","variacion","","SPORTFIT GRIS C S","1","1","visible","","","taxable","parent","1","4","","","","","","178000","","","","","","Talla","S","","",""
+"HS409M","variacion","","SPORTFIT GRIS C M","1","1","visible","","","taxable","parent","1","4","","","","","","178000","","","","","","Talla","M","","",""
+"HS409L","variacion","","SPORTFIT GRIS C L","1","1","visible","","","taxable","parent","1","4","","","","","","178000","","","","","","Talla","L","","",""
+"HS409XL","variacion","","SPORTFIT GRIS C XL","1","1","visible","","","taxable","parent","1","4","","","","","","178000","","","","","","Talla","XL","","",""
+"HS410","variable","","SPORTFIT VERDE A ","1","1","visible","","Blusa viene con escote tipo V, 2 bolsillos frontales y aberturas a los lados que le brindan un mejor ajuste al cuerpo, sin cierre ya que al ser licrado no es necesario y te brinda más comodidad.
+
+Pantalón tipo jogger con elástico en la bota, con 2 bolsillos traseros y 2 laterales, cintura con elástico expuesto para ayor comodidad.
+ 
+Están fabricados en telas de última tecnología como lo es el Antifluido stretch con elongación bidireccional y vivos en tela deportiva antimicrobial que además de brindar frescura y protección te da libertad de movimiento.
+
+","taxable","parent","0","","","","","","","178000","UNIFORME SPORTFIT","","","Sporfit verde 1, sporfit verde 2, sporfit verde 3, sporfit verde 4","","Talla","XS, S, M, L, XL","1","1","M"
+"HS410XS","variacion","","SPORTFIT VERDE A XS","1","1","visible","","","taxable","parent","1","4","","","","","","178000","","","","","","Talla","XS","","",""
+"HS410S","variacion","","SPORTFIT VERDE A S","1","1","visible","","","taxable","parent","1","4","","","","","","178000","","","","","","Talla","S","","",""
+"HS410M","variacion","","SPORTFIT VERDE A M","1","1","visible","","","taxable","parent","1","4","","","","","","178000","","","","","","Talla","M","","",""
+"HS410L","variacion","","SPORTFIT VERDE A L","1","1","visible","","","taxable","parent","1","4","","","","","","178000","","","","","","Talla","L","","",""
+"HS410XL","variacion","","SPORTFIT VERDE A XL","1","1","visible","","","taxable","parent","1","4","","","","","","178000","","","","","","Talla","XL","","",""
+"BTS001","variable","","BATA SUPREME REDLOVE ","1","1","visible","","Bata larga, con cierre frontal con solapa, 2 bolsillos frontales, puño de manga resortado.
+Están fabricadas en telas de última tecnología como lo es el
+Antifluido stretch con elongación bidireccional, posee una composición de 88%
+poliéster - 12% Lycra, que además de brindar frescura y protección te da
+libertad de movimiento.
+","taxable","parent","0","","","","","","","180000","BATAS ESTAMPADAS","","","Bata redlove. Jpg","","Talla","XS, S, M, L, XL","1","1","M"
+"BTS00106","variacion","","BATA SUPREME REDLOVE (XS)","1","1","visible","","","taxable","parent","1","6","","","","","","180000","","","","","","Talla","XS","","",""
+"BTS00108","variacion","","BATA SUPREME REDLOVE (S)","1","1","visible","","","taxable","parent","1","6","","","","","","180000","","","","","","Talla","S","","",""
+"BTS00110","variacion","","BATA SUPREME REDLOVE (M)","1","1","visible","","","taxable","parent","1","6","","","","","","180000","","","","","","Talla","M","","",""
+"BTS00112","variacion","","BATA SUPREME REDLOVE (L)","1","1","visible","","","taxable","parent","1","6","","","","","","180000","","","","","","Talla","L","","",""
+"BTS00114","variacion","","BATA SUPREME REDLOVE (XL)","1","1","visible","","","taxable","parent","1","6","","","","","","180000","","","","","","Talla","XL","","",""
+"BTS002","variable","","BATA SUPREME RAINBOW ","1","1","visible","","Bata larga, con cierre frontal con solapa, 2 bolsillos frontales, puño de manga resortado.
+Están fabricadas en telas de última tecnología como lo es el
+Antifluido stretch con elongación bidireccional, posee una composición de 88%
+poliéster - 12% Lycra, que además de brindar frescura y protección te da
+libertad de movimiento.
+","taxable","parent","0","","","","","","","180000","BATAS ESTAMPADAS","","","Bata rainbom. Jpg","","Talla","XS, S, M, L, XL","1","1","M"
+"BTS00206","variacion","","BATA SUPREME RAINBOW (XS)","1","1","visible","","","taxable","parent","1","6","","","","","","180000","","","","","","Talla","XS","","",""
+"BTS00208","variacion","","BATA SUPREME RAINBOW (S)","1","1","visible","","","taxable","parent","1","6","","","","","","180000","","","","","","Talla","S","","",""
+"BTS00210","variacion","","BATA SUPREME RAINBOW (M)","1","1","visible","","","taxable","parent","1","6","","","","","","180000","","","","","","Talla","M","","",""
+"BTS00212","variacion","","BATA SUPREME RAINBOW (L)","1","1","visible","","","taxable","parent","1","6","","","","","","180000","","","","","","Talla","L","","",""
+"BTS00214","variacion","","BATA SUPREME RAINBOW (XL)","1","1","visible","","","taxable","parent","1","6","","","","","","180000","","","","","","Talla","XL","","",""
+"BTS003","variable","","BATA SUPREME NIGHT ","1","1","visible","","Bata larga, con cierre frontal con solapa, 2 bolsillos frontales, puño de manga resortado.
+Están fabricadas en telas de última tecnología como lo es el
+Antifluido stretch con elongación bidireccional, posee una composición de 88%
+poliéster - 12% Lycra, que además de brindar frescura y protección te da
+libertad de movimiento.
+","taxable","parent","0","","","","","","","180000","BATAS ESTAMPADAS","","","Bata nigth. Jpg ","","Talla","XS, S, M, L, XL","1","1","M"
+"BTS00306","variacion","","BATA SUPREME NIGHT (XS)","1","1","visible","","","taxable","parent","1","6","","","","","","180000","","","","","","Talla","XS","","",""
+"BTS00308","variacion","","BATA SUPREME NIGHT (S)","1","1","visible","","","taxable","parent","1","6","","","","","","180000","","","","","","Talla","S","","",""
+"BTS00310","variacion","","BATA SUPREME NIGHT (M)","1","1","visible","","","taxable","parent","1","6","","","","","","180000","","","","","","Talla","M","","",""
+"BTS00312","variacion","","BATA SUPREME NIGHT (L)","1","1","visible","","","taxable","parent","1","6","","","","","","180000","","","","","","Talla","L","","",""
+"BTS00314","variacion","","BATA SUPREME NIGHT (XL)","1","1","visible","","","taxable","parent","1","6","","","","","","180000","","","","","","Talla","XL","","",""
+"BTS004","variable","","BATA SUPREME LOL ","1","1","visible","","Bata larga, con cierre frontal con solapa, 2 bolsillos frontales, puño de manga resortado.
+Están fabricadas en telas de última tecnología como lo es el
+Antifluido stretch con elongación bidireccional, posee una composición de 88%
+poliéster - 12% Lycra, que además de brindar frescura y protección te da
+libertad de movimiento.
+","taxable","parent","0","","","","","","","180000","BATAS ESTAMPADAS","","","Bata LOL. Jpg","","Talla","XS, S, M, L, XL","1","1","M"
+"BTS00406","variacion","","BATA SUPREME LOL (XS)","1","1","visible","","","taxable","parent","1","6","","","","","","180000","","","","","","Talla","XS","","",""
+"BTS00408","variacion","","BATA SUPREME LOL (S)","1","1","visible","","","taxable","parent","1","6","","","","","","180000","","","","","","Talla","S","","",""
+"BTS00410","variacion","","BATA SUPREME LOL (M)","1","1","visible","","","taxable","parent","1","6","","","","","","180000","","","","","","Talla","M","","",""
+"BTS00412","variacion","","BATA SUPREME LOL (L)","1","1","visible","","","taxable","parent","1","6","","","","","","180000","","","","","","Talla","L","","",""
+"BTS00414","variacion","","BATA SUPREME LOL (XL)","1","1","visible","","","taxable","parent","1","6","","","","","","180000","","","","","","Talla","XL","","",""
+"HG908","variable","","GORRO SPACECAT","1","0","visible","","Gorro con bolsa para el cabello, diseñados para que se acomoden suavemente a la cabeza con cinta para amarrar y elástico interno posterior para mejorar su ajuste.","taxable","parent","1","6","","","","","20%","35000","GORRO QUIRÚRGICO ","","","GORRO SPACECAT","","producto simple","unica","1","1",""
+"HG902","variable","","GORRO MONSTER","1","0","visible","","Gorro con bolsa para el cabello, diseñados para que se acomoden suavemente a la cabeza con cinta para amarrar y elástico interno posterior para mejorar su ajuste.","taxable","parent","1","6","","","","","20%","35000","GORRO QUIRÚRGICO ","","","GORRO MONSTER","","producto simple","unica","1","1",""
+"HG909","variable","","GORRO LOL","1","0","visible","","Gorro con bolsa para el cabello, diseñados para que se acomoden suavemente a la cabeza con cinta para amarrar y elástico interno posterior para mejorar su ajuste.","taxable","parent","1","6","","","","","20%","35000","GORRO QUIRÚRGICO ","","","GORRO LOL","","producto simple","unica","1","1",""
+"HG912","variable","","GORRO DRAGON","1","0","visible","","Gorro con bolsa para el cabello, diseñados para que se acomoden suavemente a la cabeza con cinta para amarrar y elástico interno posterior para mejorar su ajuste.","taxable","parent","1","1","","","","","20%","35000","GORRO QUIRÚRGICO ","","","GORRO DRAGON","","producto simple","unica","1","1",""
+"HG913","variable","","GORRO FRUITS","1","0","visible","","Gorro con bolsa para el cabello, diseñados para que se acomoden suavemente a la cabeza con cinta para amarrar y elástico interno posterior para mejorar su ajuste.","taxable","parent","1","10","","","","","20%","35000","GORRO QUIRÚRGICO ","","","GORRO FRUITS","","producto simple","unica","1","1",""
+"HG915","variable","","GORRO KOALA","1","0","visible","","Gorro con bolsa para el cabello, diseñados para que se acomoden suavemente a la cabeza con cinta para amarrar y elástico interno posterior para mejorar su ajuste.","taxable","parent","1","2","","","","","20%","35000","GORRO QUIRÚRGICO ","","","GORRO KOALA","","producto simple","unica","1","1",""
+"HG919","variable","","GORRO LLAMAS","1","0","visible","","Gorro con bolsa para el cabello, diseñados para que se acomoden suavemente a la cabeza con cinta para amarrar y elástico interno posterior para mejorar su ajuste.","taxable","parent","1","2","","","","","20%","35000","GORRO QUIRÚRGICO ","","","GORRO LLAMAS","","producto simple","unica","1","1",""
+"HG920","variable","","GORRO BIRDS","1","0","visible","","Gorro con bolsa para el cabello, diseñados para que se acomoden suavemente a la cabeza con cinta para amarrar y elástico interno posterior para mejorar su ajuste.","taxable","parent","1","10","","","","","20%","35000","GORRO QUIRÚRGICO ","","","GORRO BIRDS","","producto simple","unica","1","1",""
+"HG923","variable","","GORRO CATS","1","0","visible","","Gorro con bolsa para el cabello, diseñados para que se acomoden suavemente a la cabeza con cinta para amarrar y elástico interno posterior para mejorar su ajuste.","taxable","parent","1","10","","","","","20%","35000","GORRO QUIRÚRGICO ","","","GORRO CATS","","producto simple","unica","1","1",""
+"HG925","variable","","GORRO FLYPETS","1","0","visible","","Gorro con bolsa para el cabello, diseñados para que se acomoden suavemente a la cabeza con cinta para amarrar y elástico interno posterior para mejorar su ajuste.","taxable","parent","1","5","","","","","20%","35000","GORRO QUIRÚRGICO ","","","GORRO FLYPETS","","producto simple","unica","1","1",""
+"HG926","variable","","GORRO CRAZY","1","0","visible","","Gorro con bolsa para el cabello, diseñados para que se acomoden suavemente a la cabeza con cinta para amarrar y elástico interno posterior para mejorar su ajuste.","taxable","parent","1","5","","","","","20%","35000","GORRO QUIRÚRGICO ","","","GORRO CRAZY","","producto simple","unica","1","1",""
+"HG927","variable","","GORRO VIRUS","1","0","visible","","Gorro con bolsa para el cabello, diseñados para que se acomoden suavemente a la cabeza con cinta para amarrar y elástico interno posterior para mejorar su ajuste.","taxable","parent","1","10","","","","","20%","35000","GORRO QUIRÚRGICO ","","","GORRO VIRUS","","producto simple","unica","1","1",""
+"HG928","variable","","GORRO EMOTICONS","1","0","visible","","Gorro con bolsa para el cabello, diseñados para que se acomoden suavemente a la cabeza con cinta para amarrar y elástico interno posterior para mejorar su ajuste.","taxable","parent","1","5","","","","","20%","35000","GORRO QUIRÚRGICO ","","","GORRO EMOTICONS","","producto simple","unica","1","1",""
+"HG929","variable","","GORRO SUPER","1","0","visible","","Gorro con bolsa para el cabello, diseñados para que se acomoden suavemente a la cabeza con cinta para amarrar y elástico interno posterior para mejorar su ajuste.","taxable","parent","1","4","","","","","20%","35000","GORRO QUIRÚRGICO ","","","GORRO SUPER","","producto simple","unica","1","1",""
+"HG930","variable","","GORRO HEART","1","0","visible","","Gorro con bolsa para el cabello, diseñados para que se acomoden suavemente a la cabeza con cinta para amarrar y elástico interno posterior para mejorar su ajuste.","taxable","parent","1","4","","","","","20%","35000","GORRO QUIRÚRGICO ","","","GORRO HEART","","producto simple","unica","1","1",""
+"HG931","variable","","GORRO STARS","1","0","visible","","Gorro con bolsa para el cabello, diseñados para que se acomoden suavemente a la cabeza con cinta para amarrar y elástico interno posterior para mejorar su ajuste.","taxable","parent","1","4","","","","","20%","35000","GORRO QUIRÚRGICO ","","","GORRO STARS","","producto simple","unica","1","1",""
+"HG933","variable","","GORRO STICKER BOOM","1","0","visible","","Gorro con bolsa para el cabello, diseñados para que se acomoden suavemente a la cabeza con cinta para amarrar y elástico interno posterior para mejorar su ajuste.","taxable","parent","1","10","","","","","20%","35000","GORRO QUIRÚRGICO ","","","GORRO STICKER BOOM","","producto simple","unica","1","1",""
+"HG934","variable","","GORRO FACECAT","1","0","visible","","Gorro con bolsa para el cabello, diseñados para que se acomoden suavemente a la cabeza con cinta para amarrar y elástico interno posterior para mejorar su ajuste.","taxable","parent","1","10","","","","","20%","35000","GORRO QUIRÚRGICO ","","","GORRO FACECAT","","producto simple","unica","1","1",""
+"HG935","variable","","GORRO SMALLBOX","1","0","visible","","Gorro con bolsa para el cabello, diseñados para que se acomoden suavemente a la cabeza con cinta para amarrar y elástico interno posterior para mejorar su ajuste.","taxable","parent","1","10","","","","","20%","35000","GORRO QUIRÚRGICO ","","","GORRO SMALLBOX","","producto simple","unica","1","1",""
+"HG936","variable","","GORRO REDLOVE","1","0","visible","","Gorro con bolsa para el cabello, diseñados para que se acomoden suavemente a la cabeza con cinta para amarrar y elástico interno posterior para mejorar su ajuste.","taxable","parent","1","10","","","","","20%","35000","GORRO QUIRÚRGICO ","","","GORRO REDLOVE","","producto simple","unica","1","1",""
+"HG937","variable","","GORRO OCTOPUS","1","0","visible","","Gorro con bolsa para el cabello, diseñados para que se acomoden suavemente a la cabeza con cinta para amarrar y elástico interno posterior para mejorar su ajuste.","taxable","parent","1","10","","","","","20%","35000","GORRO QUIRÚRGICO ","","","GORRO OCTOPUS","","producto simple","unica","1","1",""
+"HG938","variable","","GORRO COOKIES","1","0","visible","","Gorro con bolsa para el cabello, diseñados para que se acomoden suavemente a la cabeza con cinta para amarrar y elástico interno posterior para mejorar su ajuste.","taxable","parent","1","10","","","","","20%","35000","GORRO QUIRÚRGICO ","","","GORRO COOKIES","","producto simple","unica","1","1",""
+"HG939","variable","","GORRO RAINBOW","1","0","visible","","Gorro con bolsa para el cabello, diseñados para que se acomoden suavemente a la cabeza con cinta para amarrar y elástico interno posterior para mejorar su ajuste.","taxable","parent","1","10","","","","","20%","35000","GORRO QUIRÚRGICO ","","","GORRO RAINBOW","","producto simple","unica","1","1",""
+"HG940","variable","","GORRO ALIEN","1","0","visible","","Gorro con bolsa para el cabello, diseñados para que se acomoden suavemente a la cabeza con cinta para amarrar y elástico interno posterior para mejorar su ajuste.","taxable","parent","1","10","","","","","20%","35000","GORRO QUIRÚRGICO ","","","GORRO ALIEN","","producto simple","unica","1","1",""
+"HG941","variable","","GORRO FLOWER","1","0","visible","","Gorro con bolsa para el cabello, diseñados para que se acomoden suavemente a la cabeza con cinta para amarrar y elástico interno posterior para mejorar su ajuste.","taxable","parent","1","10","","","","","20%","35000","GORRO QUIRÚRGICO ","","","GORRO FLOWER","","producto simple","unica","1","1",""
+"HG942","variable","","GORRO AVOCADO","1","0","visible","","Gorro con bolsa para el cabello, diseñados para que se acomoden suavemente a la cabeza con cinta para amarrar y elástico interno posterior para mejorar su ajuste.","taxable","parent","1","10","","","","","20%","35000","GORRO QUIRÚRGICO ","","","GORRO AVOCADO","","producto simple","unica","1","1",""
+"HG943","variable","","GORRO GLOBE","1","0","visible","","Gorro con bolsa para el cabello, diseñados para que se acomoden suavemente a la cabeza con cinta para amarrar y elástico interno posterior para mejorar su ajuste.","taxable","parent","1","10","","","","","20%","35000","GORRO QUIRÚRGICO ","","","GORRO GLOBE","","producto simple","unica","1","1",""
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","",""

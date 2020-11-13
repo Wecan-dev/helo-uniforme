@@ -1,0 +1,1808 @@
+                                                               Visibilidad                                                                 Estado
+                                                     ¿Está     en el                                                                       del      Clase de ¿En                  PesoLongitudAnchuraAltura Precio Precio                          Clase de
+                                                                                                                                                                                                                                                              Imágenes
+ID          Tipo        SKU   Nombre        Publicadodestacado?catálogo Descripción corta                 Descripción                      impuesto impuesto inventario?Inventario(kg) (cm)   (cm)   (cm) rebajadonormal    Categorías    Etiquetasenvío      https://drive.google.com/dr
+                                                                                                          ¡Ya disponible nuestro
+                                                                                                          CINTURÓN PBO para para que
+                                                                                                          mejores más que nunca tu
+                                                                                                          rendimiento en los básicos!
+                                                                                                          Consigue meter más kg a la
+                                                                                                          barra sintiéndote más fuerte,
+                                                                                                          seguro y compacto que nunca.
+                                                                                                          \n
+                                                                                                          \nEn PBO usamos materiales
+                                                                                                          de la más alta calidad. Nuestro
+                                                                                                          compromiso es conseguir un
+                                                                         ¡Ya disponible nuestro           cinturón con buenos acabados y
+                                                                         CINTURÓN PBO para para que que sea duradero, no como
+                                                                         mejores más que nunca tu         otras marcas que se estropean
+                                                                         rendimiento en los básicos!      fácilmente cuando afrontas
+                                                                         Consigue meter más kg a la       levantamientos pesados.
+                                                                         barra sintiéndote más fuerte,    \n
+                                                                         seguro y compacto que nunca. \n<strong>CARACTERISTICAS:
+                                                                         \n                               </strong>
+                                                                         \n<strong>CARACTERISTICAS:\n
+                                                                         </strong>                        \n- Materiales de alta calidad y
+                                                                         \n                               remaches avanzados para evitar
+                                                                         \n- Materiales de alta calidad y que se abra al realizar el
+                                                                         remaches avanzados para evitarmovimiento.
+                                                                         que se abra al realizar el       \n- Cinturón semi rígido, se
+                                                                         movimiento.                      adapta con facilidad ofreciendo
+                                                                         \n- Cinturón semi rígido, se     una fuerte sujección.
+                                                                         adapta con facilidad ofreciendo \n- 10mm de grosor y 10 cm de
+                                                                         una fuerte sujección.            anchura para una sujeción
+                                                                         \n- 10mm de grosor y 10 cm de óptima del lumbar y del core.
+                                                                         anchura para una sujeción        Conseguir más fuerza en el core
+                                                                         óptima del lumbar y del core.    es una de las claves para
+                                                                         Conseguir más fuerza en el core conseguir transferir fuerza de
+                                                                         es una de las claves para        forma eficiente y levantar más
+                                                                         conseguir transferir fuerza de pesado.
+                                                                         forma eficiente y levantar más \n-Logotipo PBO, Diseño oficial
+                                                                         pesado.                          del equipo.
+                                                                         \n-Logotipo PBO, Diseño oficial \n
+                             CINTURÓN                                    del equipo.                      \nHay existencias.                                                                                                TIENDA >                       https://powerbuildingoficial.com/wp-c
+                      pbo-   POWERLIFTING                                \n                               \n                                                                                                                Accesorios,           Envío    https://powerbuildingoficial.com/wp-c
+       32169variable cinturonPBO                   1          0visible   \n&nbsp;                         \n&nbsp;                         taxable                     0         0                                          TIENDA                Growbeatshttps://powerbuildingoficial.com/wp-c
+                             CINTURÓN
+                             POWERLIFTING
+       32418variation        PBO - XL              1          0visible                                                                  taxable parent             1         4                                        3499
+                             CINTURÓN
+                             POWERLIFTING
+       32416variation        PBO - M               1          0visible                                                                  taxable parent             0         0                                        3499
+                             CINTURÓN
+                             POWERLIFTING
+       32417variation        PBO - L               1          0visible                                                                  taxable parent             0         0                                        3499
+                             CINTURÓN
+                             POWERLIFTING
+       32415variation        PBO - S               1          0visible                                                                  taxable parent             1         4                                        3499
+                                                               visible                                                                  taxable parent
+                                                                                                        Nuestras BLUSAS viene
+                                                                                                        con escote tipo U, 2
+                                                                                                        bolsillos frontales y
+                                                                                                        aberturas a los lados que
+                                                                                                        le brindan un mejor ajuste
+                                                                                                        al cuerpo, sin cierre ya que
+                                                                                                        al ser licrado no es
+                                                                                                        necesario y te brinda más
+                                                                                                        comodidad.
+
+                                                                                                        Están fabricados en telas
+                                                                                                        de última tecnología como
+                                                                                                        lo es el
+                                                                                                        Antifluido stretch con
+                                                                                                        elongación bidireccional,
+                                                                                                        posee una composición de
+                                                                                                        88%
+                                                                                                        poliéster - 12% Lycra, que
+                                                                                                        además de brindar
+                                                                                                        frescura y protección te da
+                                                                                                        libertad de movimiento.
+
+                                                                                                        El proceso de diseño es
+                                                                                                        realizado
+                                                                                                        por sublimación digital de
+                              BLUSA                                                                     alta calidad, para que los
+                              STICKER                                                                   colores sean vivos y                                                                                            BLUSA
+H31206      variable          BOOM                 1          1visible                                  duraderos                  taxable parent                  0                                               96000ESTAMPADA                             STICKERBOOM 1.jpg, STICKE
+                              BLUSA
+                              STICKER
+H31206XS    variacion         BOOM XS              1          1visible                                                                  taxable parent             1         4                                     96000
+                              BLUSA
+                              STICKER
+H31206S     variacion         BOOM S               1          1visible                                                                  taxable parent             1         2                                     96000
+                              BLUSA
+                              STICKER
+H31206M     variacion         BOOM M               1          1visible                                                                  taxable parent             1         2                                     96000
+                              BLUSA
+                              STICKER
+H31206L     variacion         BOOM L               1          1visible                                                                  taxable parent             1         2                                     96000
+                              BLUSA
+                              STICKER
+H31206XL    variacion         BOOM XL              1          1visible                                                                  taxable parent             1         2                                     96000
+                              BLUSA
+                              STICKER
+H31206XXLvariacion            BOOM XXL             1          1visible                                                                  taxable parent             1         2                                     96000
+                                                                                                        Nuestras BLUSAS viene
+                                                                                                        con escote tipo U, 2
+                                                                                                        bolsillos frontales y
+                                                                                                        aberturas a los lados que
+                                                                                                        le brindan un mejor ajuste
+                                                                                                        al cuerpo, sin cierre ya que
+                                                                                                        al ser licrado no es
+                                                                                                        necesario y te brinda más
+                                                                                                        comodidad.
+
+                                                                                                        Están fabricados en telas
+                                                                                                        de última tecnología como
+                                                                                                        lo es el
+                                                                                                        Antifluido stretch con
+                                                                                                        elongación bidireccional,
+                                                                                                        posee una composición de
+                                                                                                        88%
+                                                                                                        poliéster - 12% Lycra, que
+                                                                                                        además de brindar
+                                                                                                        frescura y protección te da
+                                                                                                        libertad de movimiento.
+
+                                                                                                        El proceso de diseño es
+                                                                                                        realizado
+                                                                                                        por sublimación digital de
+                                                                                                        alta calidad, para que los
+                              BLUSA                                                                     colores sean vivos y                                                                                            BLUSA
+H31217      variable          OSOS                 1          1visible                                  duraderos                  taxable parent                  0                                               96000ESTAMPADA                             OSOS 1 jpg, OSOS 2 jpg, OSO
+                              BLUSA
+H31217XS    variacion         OSOS XS              1          1visible                                                                  taxable parent             1         4                                     96000
+                              BLUSA
+H31217S     variacion         OSOS S               1          1visible                                                                  taxable parent             1         0                                     96000
+                              BLUSA
+H31217M     variacion         OSOS M               1          1visible                                                                  taxable parent             1         4                                     96000
+                              BLUSA
+H31217L     variacion         OSOS L               1          1visible                                                                  taxable parent             1         4                                     96000
+                              BLUSA
+H31217XL    variacion         OSOS XL              1          1visible                                                                  taxable parent             1         4                                     96000
+                              BLUSA
+H31217XXLvariacion            OSOS XXL             1          1visible                                                                  taxable parent             1         1                                     96000
+                                                  Nuestras BLUSAS viene
+                                                  con escote tipo U, 2
+                                                  bolsillos frontales y
+                                                  aberturas a los lados que
+                                                  le brindan un mejor ajuste
+                                                  al cuerpo, sin cierre ya que
+                                                  al ser licrado no es
+                                                  necesario y te brinda más
+                                                  comodidad.
+
+                                                  Están fabricados en telas
+                                                  de última tecnología como
+                                                  lo es el
+                                                  Antifluido stretch con
+                                                  elongación bidireccional,
+                                                  posee una composición de
+                                                  88%
+                                                  poliéster - 12% Lycra, que
+                                                  además de brindar
+                                                  frescura y protección te da
+                                                  libertad de movimiento.
+
+                                                  El proceso de diseño es
+                                                  realizado
+                                                  por sublimación digital de
+                                                  alta calidad, para que los
+                       BLUSA                      colores sean vivos y                                         BLUSA
+H31204     variable    CATS        1   1visible   duraderos                  taxable parent       0       96000ESTAMPADA   CATS 1.jpg, CATS 2.jpg, CATS
+                       BLUSA
+H31204XS   variacion   CATS XS     1   1visible                                  taxable parent   1   2   96000
+                       BLUSA
+H31204S    variacion   CATS S      1   1visible                                  taxable parent   1   2   96000
+                       BLUSA
+H31204M    variacion   CATS M      1   1visible                                  taxable parent   1   2   96000
+                       BLUSA
+H31204L    variacion   CATS L      1   1visible                                  taxable parent   1   2   96000
+                       BLUSA
+H31204XL   variacion   CATS XL     1   1visible                                  taxable parent   1   2   96000
+                       BLUSA
+H31204XXLvariacion     CATS XXL    1   1visible                                  taxable parent   1   2   96000
+                                                  Nuestras BLUSAS viene
+                                                  con escote tipo U, 2
+                                                  bolsillos frontales y
+                                                  aberturas a los lados que
+                                                  le brindan un mejor ajuste
+                                                  al cuerpo, sin cierre ya que
+                                                  al ser licrado no es
+                                                  necesario y te brinda más
+                                                  comodidad.
+
+                                                  Están fabricados en telas
+                                                  de última tecnología como
+                                                  lo es el
+                                                  Antifluido stretch con
+                                                  elongación bidireccional,
+                                                  posee una composición de
+                                                  88%
+                                                  poliéster - 12% Lycra, que
+                                                  además de brindar
+                                                  frescura y protección te da
+                                                  libertad de movimiento.
+
+                                                  El proceso de diseño es
+                                                  realizado
+                                                  por sublimación digital de
+                                                  alta calidad, para que los
+                       BLUSA                      colores sean vivos y                                         BLUSA
+H31216     variable    MONSTER     1   1visible   duraderos                  taxable parent       0       96000ESTAMPADA   MONSTER 1.jpg, MONSTER 2
+                       BLUSA
+                       MONSTER
+H31216XS   variacion   XS          1   1visible                                  taxable parent   1   2   96000
+                       BLUSA
+H31216S    variacion   MONSTER S   1   1visible                                  taxable parent   1   2   96000
+                       BLUSA
+                       MONSTER
+H31216M    variacion   M           1   1visible                                  taxable parent   1   2   96000
+                       BLUSA
+H31216L    variacion   MONSTER L   1   1visible                                  taxable parent   1   2   96000
+                       BLUSA
+                       MONSTER
+H31216XL   variacion   XL          1   1visible                                  taxable parent   1   2   96000
+                       BLUSA
+                       MONSTER
+H31216XXLvariacion     XXL         1   1visible                                  taxable parent   1   2   96000
+                                                  Nuestras BLUSAS viene
+                                                  con escote tipo U, 2
+                                                  bolsillos frontales y
+                                                  aberturas a los lados que
+                                                  le brindan un mejor ajuste
+                                                  al cuerpo, sin cierre ya que
+                                                  al ser licrado no es
+                                                  necesario y te brinda más
+                                                  comodidad.
+
+                                                  Están fabricados en telas
+                                                  de última tecnología como
+                                                  lo es el
+                                                  Antifluido stretch con
+                                                  elongación bidireccional,
+                                                  posee una composición de
+                                                  88%
+                                                  poliéster - 12% Lycra, que
+                                                  además de brindar
+                                                  frescura y protección te da
+                                                  libertad de movimiento.
+
+                                                  El proceso de diseño es
+                                                  realizado
+                                                  por sublimación digital de
+                                                  alta calidad, para que los
+                       BLUSA                      colores sean vivos y                                         BLUSA
+H31221     variable    SPACECAT    1   1visible   duraderos                  taxable parent       0       96000ESTAMPADA   SPACECAT 1.jpg, SPACECAT
+                       BLUSA
+                       SPACECAT
+H31221XS   variacion   XS          1   1visible                                  taxable parent   1   2   96000
+                       BLUSA
+                       SPACECAT
+H31221S    variacion   S           1   1visible                                  taxable parent   1   2   96000
+                       BLUSA
+                       SPACECAT
+H31221M    variacion   M           1   1visible                                  taxable parent   1   2   96000
+                       BLUSA
+                       SPACECAT
+H31221L    variacion   L           1   1visible                                  taxable parent   1   2   96000
+                       BLUSA
+                       SPACECAT
+H31221XL   variacion   XL          1   1visible                                  taxable parent   1   2   96000
+                       BLUSA
+                       SPACECAT
+H31221XXLvariacion     XXL         1   1visible                                  taxable parent   1   2   96000
+                                                  Nuestras BLUSAS viene
+                                                  con escote tipo U, 2
+                                                  bolsillos frontales y
+                                                  aberturas a los lados que
+                                                  le brindan un mejor ajuste
+                                                  al cuerpo, sin cierre ya que
+                                                  al ser licrado no es
+                                                  necesario y te brinda más
+                                                  comodidad.
+
+                                                  Están fabricados en telas
+                                                  de última tecnología como
+                                                  lo es el
+                                                  Antifluido stretch con
+                                                  elongación bidireccional,
+                                                  posee una composición de
+                                                  88%
+                                                  poliéster - 12% Lycra, que
+                                                  además de brindar
+                                                  frescura y protección te da
+                                                  libertad de movimiento.
+
+                                                  El proceso de diseño es
+                                                  realizado
+                                                  por sublimación digital de
+                                                  alta calidad, para que los
+                                                  colores sean vivos y                                         BLUSA
+H31224     variable    BLUSA LOL   1   1visible   duraderos                  taxable parent       0       96000ESTAMPADA   LOL 1.jpg, LOL 2.jpg, LOL 3.jp
+                       BLUSA LOL
+H31224XS   variacion   XS          1   1visible                                  taxable parent   1   2   96000
+                       BLUSA LOL
+H31224S    variacion   S           1   1visible                                  taxable parent   1   2   96000
+                       BLUSA LOL
+H31224M    variacion   M           1   1visible                                  taxable parent   1   2   96000
+                       BLUSA LOL
+H31224L    variacion   L           1   1visible                                  taxable parent   1   2   96000
+                       BLUSA LOL
+H31224XL   variacion   XL          1   1visible                                  taxable parent   1   2   96000
+                       BLUSA LOL
+H31224XXLvariacion     XXL         1   1visible                                  taxable parent   1   2   96000
+                                                  Nuestras BLUSAS viene
+                                                  con escote tipo U, 2
+                                                  bolsillos frontales y
+                                                  aberturas a los lados que
+                                                  le brindan un mejor ajuste
+                                                  al cuerpo, sin cierre ya que
+                                                  al ser licrado no es
+                                                  necesario y te brinda más
+                                                  comodidad.
+
+                                                  Están fabricados en telas
+                                                  de última tecnología como
+                                                  lo es el
+                                                  Antifluido stretch con
+                                                  elongación bidireccional,
+                                                  posee una composición de
+                                                  88%
+                                                  poliéster - 12% Lycra, que
+                                                  además de brindar
+                                                  frescura y protección te da
+                                                  libertad de movimiento.
+
+                                                  El proceso de diseño es
+                                                  realizado
+                                                  por sublimación digital de
+                                                  alta calidad, para que los
+                       BLUSA                      colores sean vivos y                                         BLUSA
+H31248     variable    RAINBOW     1   1visible   duraderos                  taxable parent       0       96000ESTAMPADA   RAINBOW.jpg
+                       BLUSA
+                       RAINBOW
+H31248XS   variacion   (XS)        1   1visible                                  taxable parent   1   2   96000
+                       BLUSA
+                       RAINBOW
+H31248S    variacion   (S)         1   1visible                                  taxable parent   1   2   96000
+                       BLUSA
+                       RAINBOW
+H31248M    variacion   (M)         1   1visible                                  taxable parent   1   2   96000
+                       BLUSA
+                       RAINBOW
+H31248L    variacion   (L)         1   1visible                                  taxable parent   1   2   96000
+                       BLUSA
+                       RAINBOW
+H31248XL   variacion   (XL)        1   1visible                                  taxable parent   1   2   96000
+                       BLUSA
+                       RAINBOW
+H31248XXLvariacion     (XXL)       1   1visible                                  taxable parent   1   2   96000
+                                                  Nuestras BLUSAS viene
+                                                  con escote tipo U, 2
+                                                  bolsillos frontales y
+                                                  aberturas a los lados que
+                                                  le brindan un mejor ajuste
+                                                  al cuerpo, sin cierre ya que
+                                                  al ser licrado no es
+                                                  necesario y te brinda más
+                                                  comodidad.
+
+                                                  Están fabricados en telas
+                                                  de última tecnología como
+                                                  lo es el
+                                                  Antifluido stretch con
+                                                  elongación bidireccional,
+                                                  posee una composición de
+                                                  88%
+                                                  poliéster - 12% Lycra, que
+                                                  además de brindar
+                                                  frescura y protección te da
+                                                  libertad de movimiento.
+
+                                                  El proceso de diseño es
+                                                  realizado
+                                                  por sublimación digital de
+                                                  alta calidad, para que los
+                       BLUSA                      colores sean vivos y                                         BLUSA
+H31251     variable    AVOCADO     1   1visible   duraderos                  taxable parent       0       96000ESTAMPADA   AVOCADO.jpg
+                       BLUSA
+                       AVOCADO
+H31251XS   variacion   (XS)        1   1visible                                  taxable parent   1   2   96000
+                       BLUSA
+                       AVOCADO
+H31251S    variacion   (S)         1   1visible                                  taxable parent   1   2   96000
+                       BLUSA
+                       AVOCADO
+H31251M    variacion   (M)         1   1visible                                  taxable parent   1   2   96000
+                       BLUSA
+                       AVOCADO
+H31251L    variacion   (L)         1   1visible                                  taxable parent   1   2   96000
+                       BLUSA
+                       AVOCADO
+H31251XL   variacion   (XL)        1   1visible                                  taxable parent   1   2   96000
+                       BLUSA
+                       AVOCADO
+H31251XXLvariacion     (XXL)        1   1visible                                  taxable parent   1   2   96000
+                                                   Nuestras BLUSAS viene
+                                                   con escote tipo U, 2
+                                                   bolsillos frontales y
+                                                   aberturas a los lados que
+                                                   le brindan un mejor ajuste
+                                                   al cuerpo, sin cierre ya que
+                                                   al ser licrado no es
+                                                   necesario y te brinda más
+                                                   comodidad.
+
+                                                   Están fabricados en telas
+                                                   de última tecnología como
+                                                   lo es el
+                                                   Antifluido stretch con
+                                                   elongación bidireccional,
+                                                   posee una composición de
+                                                   88%
+                                                   poliéster - 12% Lycra, que
+                                                   además de brindar
+                                                   frescura y protección te da
+                                                   libertad de movimiento.
+
+                                                   El proceso de diseño es
+                                                   realizado
+                                                   por sublimación digital de
+                                                   alta calidad, para que los
+                       BLUSA                       colores sean vivos y                                         BLUSA
+H31244     variable    SMALLBOX     1   1visible   duraderos                  taxable parent       0       96000ESTAMPADA   SMALLBOX.jpg
+                       BLUSA
+                       SMALLBOX
+H31244XS   variacion   (XS)         1   1visible                                  taxable parent   1   6   96000
+                       BLUSA
+                       SMALLBOX
+H31244S    variacion   (S)          1   1visible                                  taxable parent   1   6   96000
+                       BLUSA
+                       SMALLBOX
+H31244M    variacion   (M)          1   1visible                                  taxable parent   1   6   96000
+                       BLUSA
+                       SMALLBOX
+H31244L    variacion   (L)          1   1visible                                  taxable parent   1   6   96000
+                       BLUSA
+                       SMALLBOX
+H31244XL   variacion   (XL)         1   1visible                                  taxable parent   1   6   96000
+                       BLUSA
+                       SMALLBOX
+H31244XXLvariacion     (XXL)        1   1visible                                  taxable parent   1   6   96000
+                                                   Nuestras BLUSAS viene
+                                                   con escote tipo U, 2
+                                                   bolsillos frontales y
+                                                   aberturas a los lados que
+                                                   le brindan un mejor ajuste
+                                                   al cuerpo, sin cierre ya que
+                                                   al ser licrado no es
+                                                   necesario y te brinda más
+                                                   comodidad.
+
+                                                   Están fabricados en telas
+                                                   de última tecnología como
+                                                   lo es el
+                                                   Antifluido stretch con
+                                                   elongación bidireccional,
+                                                   posee una composición de
+                                                   88%
+                                                   poliéster - 12% Lycra, que
+                                                   además de brindar
+                                                   frescura y protección te da
+                                                   libertad de movimiento.
+
+                                                   El proceso de diseño es
+                                                   realizado
+                                                   por sublimación digital de
+                                                   alta calidad, para que los
+                       BLUSA                       colores sean vivos y                                         BLUSA
+H31252     variable    GLOBE        1   1visible   duraderos                  taxable parent       0       96000ESTAMPADA   GLOBE.jpg
+                       BLUSA
+H31252XS   variacion   GLOBE (XS)   1   1visible                                  taxable parent   1   6   96000
+                       BLUSA
+H31252S    variacion   GLOBE (S)    1   1visible                                  taxable parent   1   6   96000
+                       BLUSA
+H31252M    variacion   GLOBE (M)    1   1visible                                  taxable parent   1   6   96000
+                       BLUSA
+H31252L    variacion   GLOBE (L)    1   1visible                                  taxable parent   1   6   96000
+                       BLUSA
+H31252XL   variacion   GLOBE (XL)   1   1visible                                  taxable parent   1   6   96000
+                       BLUSA
+                       GLOBE
+H31252XXLvariacion     (XXL)        1   1visible                                  taxable parent   1   6   96000
+                                                   Nuestras BLUSAS viene
+                                                   con escote tipo U, 2
+                                                   bolsillos frontales y
+                                                   aberturas a los lados que
+                                                   le brindan un mejor ajuste
+                                                   al cuerpo, sin cierre ya que
+                                                   al ser licrado no es
+                                                   necesario y te brinda más
+                                                   comodidad.
+
+                                                   Están fabricados en telas
+                                                   de última tecnología como
+                                                   lo es el
+                                                   Antifluido stretch con
+                                                   elongación bidireccional,
+                                                   posee una composición de
+                                                   88%
+                                                   poliéster - 12% Lycra, que
+                                                   además de brindar
+                                                   frescura y protección te da
+                                                   libertad de movimiento.
+
+                                                   El proceso de diseño es
+                                                   realizado
+                                                   por sublimación digital de
+                                                   alta calidad, para que los
+                       BLUSA                       colores sean vivos y                                         BLUSA
+H31249     variable    ALIEN        1   1visible   duraderos                  taxable parent       0       96000ESTAMPADA   ALIEN.jpg
+                       BLUSA
+H31249XS   variacion   ALIEN (XS)   1   1visible                                  taxable parent   1   6   96000
+                       BLUSA
+H31249S    variacion   ALIEN (S)    1   1visible                                  taxable parent   1   6   96000
+                       BLUSA
+H31249M    variacion   ALIEN (M)    1   1visible                                  taxable parent   1   6   96000
+                       BLUSA
+H31249L    variacion   ALIEN (L)    1   1visible                                  taxable parent   1   6   96000
+                       BLUSA
+H31249XL   variacion   ALIEN (XL)   1   1visible                                  taxable parent   1   6   96000
+                        BLUSA
+H31249XXLvariacion      ALIEN (XXL)   1   1visible                                  taxable parent   1   6   96000
+                                                     Nuestras BLUSAS viene
+                                                     con escote tipo U, 2
+                                                     bolsillos frontales y
+                                                     aberturas a los lados que
+                                                     le brindan un mejor ajuste
+                                                     al cuerpo, sin cierre ya que
+                                                     al ser licrado no es
+                                                     necesario y te brinda más
+                                                     comodidad.
+
+                                                     Están fabricados en telas
+                                                     de última tecnología como
+                                                     lo es el
+                                                     Antifluido stretch con
+                                                     elongación bidireccional,
+                                                     posee una composición de
+                                                     88%
+                                                     poliéster - 12% Lycra, que
+                                                     además de brindar
+                                                     frescura y protección te da
+                                                     libertad de movimiento.
+
+                                                     El proceso de diseño es
+                                                     realizado
+                                                     por sublimación digital de
+                                                     alta calidad, para que los
+                        BLUSA                        colores sean vivos y                                         BLUSA
+H31246      variable    OCTOPUS       1   1visible   duraderos                  taxable parent       0       96000ESTAMPADA   OCTOPUS.jpg
+                        BLUSA
+                        OCTOPUS
+H31246XS    variacion   (XS)          1   1visible                                  taxable parent   1   6   96000
+                        BLUSA
+                        OCTOPUS
+H31246S     variacion   (S)           1   1visible                                  taxable parent   1   6   96000
+                        BLUSA
+                        OCTOPUS
+H31246M     variacion   (M)           1   1visible                                  taxable parent   1   6   96000
+                        BLUSA
+                        OCTOPUS
+H31246L     variacion   (L)           1   1visible                                  taxable parent   1   6   96000
+                        BLUSA
+                        OCTOPUS
+H31246XL    variacion   (XL)          1   1visible                                  taxable parent   1   6   96000
+                        BLUSA
+                        OCTOPUS
+H31246XXL variacion     (XXL)         1   1visible                                  taxable parent   1   6   96000
+                                                     Nuestras BLUSAS viene
+                                                     con escote tipo U, 2
+                                                     bolsillos frontales y
+                                                     aberturas a los lados que
+                                                     le brindan un mejor ajuste
+                                                     al cuerpo, sin cierre ya que
+                                                     al ser licrado no es
+                                                     necesario y te brinda más
+                                                     comodidad.
+
+                                                     Están fabricados en telas
+                                                     de última tecnología como
+                                                     lo es el
+                                                     Antifluido stretch con
+                                                     elongación bidireccional,
+                                                     posee una composición de
+                                                     88%
+                                                     poliéster - 12% Lycra, que
+                                                     además de brindar
+                                                     frescura y protección te da
+                                                     libertad de movimiento.
+
+                                                     El proceso de diseño es
+                                                     realizado
+                                                     por sublimación digital de
+                                                     alta calidad, para que los
+                        BLUSA                        colores sean vivos y
+                                                                                                                  BLUSA
+H31250                  FLOWER                       duraderos
+            variable                  1   1visible                                  taxable parent   0       96000ESTAMPADA   FLOWER.jpg
+                        BLUSA
+                        FLOWER
+H31250XS    variacion   (XS)          1   1visible                                  taxable parent   1   6   96000
+                        BLUSA
+H31250S     variacion   FLOWER (S)    1   1visible                                  taxable parent   1   6   96000
+                        BLUSA
+H31250M     variacion   FLOWER (M)    1   1visible                                  taxable parent   1   6   96000
+                        BLUSA
+H31250L     variacion   FLOWER (L)    1   1visible                                  taxable parent   1   6   96000
+                        BLUSA
+                        FLOWER
+H31250XL    variacion   (XL)          1   1visible                                  taxable parent   1   6   96000
+                        BLUSA
+                        FLOWER
+H31250XXL variacion     (XXL)         1   1visible                                  taxable parent   1   6   96000
+                                                     Nuestras BLUSAS viene
+                                                     con escote tipo U, 2
+                                                     bolsillos frontales y
+                                                     aberturas a los lados que
+                                                     le brindan un mejor ajuste
+                                                     al cuerpo, sin cierre ya que
+                                                     al ser licrado no es
+                                                     necesario y te brinda más
+                                                     comodidad.
+
+                                                     Están fabricados en telas
+                                                     de última tecnología como
+                                                     lo es el
+                                                     Antifluido stretch con
+                                                     elongación bidireccional,
+                                                     posee una composición de
+                                                     88%
+                                                     poliéster - 12% Lycra, que
+                                                     además de brindar
+                                                     frescura y protección te da
+                                                     libertad de movimiento.
+
+                                                     El proceso de diseño es
+                                                     realizado
+                                                     por sublimación digital de
+                                                     alta calidad, para que los
+                        BLUSA                        colores sean vivos y                                         BLUSA
+H31247      variable    COOKIES       1   1visible   duraderos                  taxable parent       0       96000ESTAMPADA   COOKIES.jpg
+                        BLUSA
+                        COOKIES
+H31247XS    variacion   (XS)          1   1visible                                  taxable parent   1   6   96000
+                        BLUSA
+                        COOKIES
+H31247S     variacion   (S)           1   1visible                                  taxable parent   1   6   96000
+                        BLUSA
+                        COOKIES
+H31247M     variacion   (M)           1   1visible                                  taxable parent   1   6   96000
+                        BLUSA
+H31247L     variacion   COOKIES (L)   1   1visible                                  taxable parent   1   6   96000
+                        BLUSA
+                        COOKIES
+H31247XL    variacion   (XL)         1   1visible                                  taxable parent   1   6   96000
+                        BLUSA
+                        COOKIES
+                        (XXL)
+H31247XXL variacion                  1   1visible                                  taxable parent   1   6   96000
+                                                    Nuestras BLUSAS viene
+                                                    con escote tipo U, 2
+                                                    bolsillos frontales y
+                                                    aberturas a los lados que
+                                                    le brindan un mejor ajuste
+                                                    al cuerpo, sin cierre ya que
+                                                    al ser licrado no es
+                                                    necesario y te brinda más
+                                                    comodidad.
+
+                                                    Están fabricados en telas
+                                                    de última tecnología como
+                                                    lo es el
+                                                    Antifluido stretch con
+                                                    elongación bidireccional,
+                                                    posee una composición de
+                                                    88%
+                                                    poliéster - 12% Lycra, que
+                                                    además de brindar
+                                                    frescura y protección te da
+                                                    libertad de movimiento.
+
+                                                    El proceso de diseño es
+                                                    realizado
+                                                    por sublimación digital de
+                                                    alta calidad, para que los
+                        BLUSA                       colores sean vivos y                                         BLUSA
+H31245      variable    REDLOVE      1   1visible   duraderos                  taxable parent       0       96000ESTAMPADA   REDLOVE.jpg
+                        BLUSA
+                        REDLOVE
+H31245XS    variacion   (XS)         1   1visible                                  taxable parent   1   2   96000
+                        BLUSA
+                        REDLOVE
+H31245S     variacion   (S)          1   1visible                                  taxable parent   1   2   96000
+                        BLUSA
+                        REDLOVE
+H31245M     variacion   (M)          1   1visible                                  taxable parent   1   2   96000
+                        BLUSA
+                        REDLOVE
+H31245L     variacion   (L)          1   1visible                                  taxable parent   1   2   96000
+                        BLUSA
+                        REDLOVE
+H31245XL    variacion   (XL)         1   1visible                                  taxable parent   1   2   96000
+                        BLUSA
+                        REDLOVE
+H31245XXL variacion     (XXL)        1   1visible                                  taxable parent   1   2   96000
+                                                    Nuestras BLUSAS viene
+                                                    con escote tipo U, 2
+                                                    bolsillos frontales y
+                                                    aberturas a los lados que
+                                                    le brindan un mejor ajuste
+                                                    al cuerpo, sin cierre ya que
+                                                    al ser licrado no es
+                                                    necesario y te brinda más
+                                                    comodidad.
+
+                                                    Están fabricados en telas
+                                                    de última tecnología como
+                                                    lo es el
+                                                    Antifluido stretch con
+                                                    elongación bidireccional,
+                                                    posee una composición de
+                                                    88%
+                                                    poliéster - 12% Lycra, que
+                                                    además de brindar
+                                                    frescura y protección te da
+                                                    libertad de movimiento.
+
+                                                    El proceso de diseño es
+                                                    realizado por sublimación
+                                                    digital de alta calidad, para
+                                                    que los colores sean vivos
+                        BLUSA                       y                                                            BLUSA
+H31243      variable    FACECAT      1   1visible   duraderos                     taxable parent    0       96000ESTAMPADA   FACECAT.jpg
+                        BLUSA
+                        FACECAT
+H31243XS    variacion   (XS)         1   1visible                                  taxable parent   1   6   96000
+                        BLUSA
+                        FACECAT
+H31243S     variacion   (S)          1   1visible                                  taxable parent   1   6   96000
+                        BLUSA
+                        FACECAT
+                        (M)
+H31243M     variacion                1   1visible                                  taxable parent   1   6   96000
+                        BLUSA
+                        FACECAT
+H31243L     variacion   (L)          1   1visible                                  taxable parent   1   6   96000
+                        BLUSA
+                        FACECAT
+H31243XL    variacion   (XL)         1   1visible                                  taxable parent   1   6   96000
+                        BLUSA
+                        FACECAT
+H31243XXL variacion     (XXL)        1   1visible                                  taxable parent   1   6   96000
+                                                    Nuestras BLUSAS viene
+                                                    con escote tipo U, 2
+                                                    bolsillos frontales y
+                                                    aberturas a los lados que
+                                                    le brindan un mejor ajuste
+                                                    al cuerpo, sin cierre ya que
+                                                    al ser licrado no es
+                                                    necesario y te brinda más
+                                                    comodidad.
+
+                                                    Están fabricados en telas
+                                                    de última tecnología como
+                                                    lo es el
+                                                    Antifluido stretch con
+                                                    elongación bidireccional,
+                                                    posee una composición de
+                                                    88%
+                                                    poliéster - 12% Lycra, que
+                                                    además de brindar
+                                                    frescura y protección te da
+                                                    libertad de movimiento.
+
+                                                    El proceso de diseño es
+                                                    realizado por sublimación
+                                                    digital de alta calidad, para
+                                                    que los colores sean vivos
+                        BLUSA                       y                                                            BLUSA
+H31236      variable    CRAZY        1   1visible   duraderos                     taxable parent    0       96000ESTAMPADA   CRAZY.jpg
+                        BLUSA
+H31236XS    variacion   CRAZY (XS)   1   1visible                                  taxable parent   1   2   96000
+                        BLUSA
+H31236S     variacion   CRAZY (S)     1   1visible                                  taxable parent   1   2   96000
+                        BLUSA
+H31236M     variacion   CRAZY (M)     1   1visible                                  taxable parent   1   2   96000
+                        BLUSA
+H31236L     variacion   CRAZY (L)     1   1visible                                  taxable parent   1   2   96000
+                        BLUSA
+H31236XL    variacion   CRAZY (XL)    1   1visible                                  taxable parent   1   2   96000
+                        BLUSA
+                        CRAZY
+H31236XXL variacion     (XXL)         1   1visible                                  taxable parent   1   2   96000
+                                                     Nuestras BLUSAS viene
+                                                     con escote tipo U, 2
+                                                     bolsillos frontales y
+                                                     aberturas a los lados que
+                                                     le brindan un mejor ajuste
+                                                     al cuerpo, sin cierre ya que
+                                                     al ser licrado no es
+                                                     necesario y te brinda más
+                                                     comodidad.
+
+                                                     Están fabricados en telas
+                                                     de última tecnología como
+                                                     lo es el
+                                                     Antifluido stretch con
+                                                     elongación bidireccional,
+                                                     posee una composición de
+                                                     88%
+                                                     poliéster - 12% Lycra, que
+                                                     además de brindar
+                                                     frescura y protección te da
+                                                     libertad de movimiento.
+
+                                                     El proceso de diseño es
+                                                     realizado por sublimación
+                                                     digital de alta calidad, para
+                                                     que los colores sean vivos
+                        BLUSA                        y                                                            BLUSA
+H31237      variable    VIRUS         1   1visible   duraderos                     taxable parent    0       96000ESTAMPADA   VIRUS 1.jpg, virus 2.jpg, virus
+                        BLUSA
+H31237XS    variacion
+                        VIRUS (XS)    1   1visible                                  taxable parent   1   2   96000
+
+                        BLUSA
+H31237S     variacion   VIRUS (S)     1   1visible                                  taxable parent   1   2   96000
+                        BLUSA
+H31237M     variacion   VIRUS (M)     1   1visible                                  taxable parent   1   2   96000
+                        BLUSA
+H31237L     variacion   VIRUS (L)     1   1visible                                  taxable parent   1   2   96000
+                        BLUSA
+H31237XL    variacion   VIRUS (XL)    1   1visible                                  taxable parent   1   2   96000
+                        BLUSA
+H31237XXL variacion     VIRUS (XXL)   1   1visible                                  taxable parent   1   2   96000
+                                                     Nuestras BLUSAS viene
+                                                     con escote tipo U, 2
+                                                     bolsillos frontales y
+                                                     aberturas a los lados que
+                                                     le brindan un mejor ajuste
+                                                     al cuerpo, sin cierre ya que
+                                                     al ser licrado no es
+                                                     necesario y te brinda más
+                                                     comodidad.
+
+                                                     Están fabricados en telas
+                                                     de última tecnología como
+                                                     lo es el
+                                                     Antifluido stretch con
+                                                     elongación bidireccional,
+                                                     posee una composición de
+                                                     88%
+                                                     poliéster - 12% Lycra, que
+                                                     además de brindar
+                                                     frescura y protección te da
+                                                     libertad de movimiento.
+
+                                                     El proceso de diseño es
+                                                     realizado por sublimación
+                                                     digital de alta calidad, para
+                                                     que los colores sean vivos
+                        BLUSA                        y                                                            BLUSA
+H31240      variable    HEART         1   0visible   duraderos                     taxable parent    0       96000ESTAMPADA   Heart. Jpg
+                        BLUSA
+H31240XS    variacion   HEART (XS)    1   0visible                                  taxable parent   1   2   96000
+                        BLUSA
+H31240XL    variacion   HEART (XL)    1   0visible                                  taxable parent   1   2   96000
+                                                     Nuestras BLUSAS viene
+                                                     con escote tipo U, 2
+                                                     bolsillos frontales y
+                                                     aberturas a los lados que
+                                                     le brindan un mejor ajuste
+                                                     al cuerpo, sin cierre ya que
+                                                     al ser licrado no es
+                                                     necesario y te brinda más
+                                                     comodidad.
+
+                                                     Están fabricados en telas
+                                                     de última tecnología como
+                                                     lo es el
+                                                     Antifluido stretch con
+                                                     elongación bidireccional,
+                                                     posee una composición de
+                                                     88%
+                                                     poliéster - 12% Lycra, que
+                                                     además de brindar
+                                                     frescura y protección te da
+                                                     libertad de movimiento.
+
+                                                     El proceso de diseño es
+                                                     realizado por sublimación
+                                                     digital de alta calidad, para
+                                                     que los colores sean vivos
+                        BLUSA                        y                                                            BLUSA
+H31239      variacion   SUPER         1   0visible   duraderos                     taxable parent    0       96000ESTAMPADA   Super 1.jpg, super 2. Jpg, supe
+                        BLUSA
+H31239XS    variacion   SUPER (XS)    1   0visible                                  taxable parent   1   2   96000
+                        BLUSA
+H31239S     variacion   SUPER (S)     1   0visible                                  taxable parent   1   2   96000
+                        BLUSA
+H31239XL    variacion   SUPER (XL)    1   0visible                                  taxable parent   1   2   96000
+                                                     Nuestras BLUSAS viene
+                                                     con escote tipo U, 2
+                                                     bolsillos frontales y
+                                                     aberturas a los lados que
+                                                     le brindan un mejor ajuste
+                                                     al cuerpo, sin cierre ya que
+                                                     al ser licrado no es
+                                                     necesario y te brinda más
+                                                     comodidad.
+
+                                                     Están fabricados en telas
+                                                     de última tecnología como
+                                                     lo es el
+                                                     Antifluido stretch con
+                                                     elongación bidireccional,
+                                                     posee una composición de
+                                                     88%
+                                                     poliéster - 12% Lycra, que
+                                                     además de brindar
+                                                     frescura y protección te da
+                                                     libertad de movimiento.
+
+                                                     El proceso de diseño es
+                                                     realizado por sublimación
+                                                     digital de alta calidad, para
+                                                     que los colores sean vivos
+                                                     y
+                        BLUSA                        duraderos
+H31241      variable    STARS         1   0visible                                   taxable parent   0            96000            Stars 1.jpg, stars 2.jpg, stars 3
+                        BLUSA
+H31241XS    variacion   STARS (XS)    1   0visible                                   taxable parent   1   2        96000
+                        BLUSA
+                        STARS
+H31241XXL variacion     (XXL)         1   0visible                                   taxable parent   1   2        96000
+                                                     Nuestras BLUSAS viene
+                                                     con escote tipo U, 2
+                                                     bolsillos frontales y
+                                                     aberturas a los lados que
+                                                     le brindan un mejor ajuste
+                                                     al cuerpo, sin cierre ya que
+                                                     al ser licrado no es
+                                                     necesario y te brinda más
+                                                     comodidad.
+
+                                                     Están fabricados en telas
+                                                     de última tecnología como
+                                                     lo es el
+                                                     Antifluido stretch con
+                                                     elongación bidireccional,
+                                                     posee una composición de
+                                                     88%
+                                                     poliéster - 12% Lycra, que
+                                                     además de brindar
+                                                     frescura y protección te da
+                                                     libertad de movimiento.
+
+                                                     El proceso de diseño es
+                                                     realizado por sublimación
+                                                     digital de alta calidad, para
+                                                     que los colores sean vivos
+                        BLUSA                        y                                                                  BLUSA
+H31238      variable    EMOTICONS     1   0visible   duraderos                     taxable parent     0            96000ESTAMPADA   Emoticons 1.jpg, emoticons 2.j
+                        BLUSA
+                        EMOTICONS
+H31238XS    variacion   (XS)          1   0visible                                   taxable parent   1   2        96000
+                        BLUSA
+                        EMOTICONS
+H31238S     variacion   (S)           1   0visible                                   taxable parent   1   2        96000
+                        BLUSA
+                        EMOTICONS
+H31238M     variacion   (M)           1   0visible                                   taxable parent   1   2        96000
+                        BLUSA
+                        EMOTICONS
+H31238XL    variacion   (XL)          1   0visible                                   taxable parent   1   2        96000
+                                                     Nuestras BLUSAS viene
+                                                     con escote tipo U, 2
+                                                     bolsillos frontales y
+                                                     aberturas a los lados que
+                                                     le brindan un mejor ajuste
+                                                     al cuerpo, sin cierre ya que
+                                                     al ser licrado no es
+                                                     necesario y te brinda más
+                                                     comodidad.
+
+                                                     Están fabricados en telas
+                                                     de última tecnología como
+                                                     lo es el
+                                                     Antifluido stretch con
+                                                     elongación bidireccional,
+                                                     posee una composición de
+                                                     88%
+                                                     poliéster - 12% Lycra, que
+                                                     además de brindar
+                                                     frescura y protección te da
+                                                     libertad de movimiento.
+
+                                                     El proceso de diseño es
+                                                     realizado por sublimación
+                                                     digital de alta calidad, para
+                                                     que los colores sean vivos
+                                                     y
+                        BLUSA                        duraderos                                                          BLUSA
+H31235      variable    FLYPETS       1   0visible                                   taxable parent   0            96000ESTAMPADA   Flypets 1.jpg, flypets 2.jpg, flyp
+                        BLUSA
+                        FLYPETS
+H31235XS    variacion   (XS)          1   0visible                                   taxable parent   1   2        96000
+                        BLUSA
+H31235S     variacion   FLYPETS (S)   1   0visible                                   taxable parent   1   2        96000
+                        BLUSA
+                        FLYPETS
+H31235XL    variacion   (XL)          1   0visible                                   taxable parent   1   2        96000
+                                                     Nuestros PANTALONES
+                                                     son tipo cargo con 4
+                                                     bolsillos, elástico
+                                                     semiexpuesto, ajuste por
+                                                     cordón interno y abertura
+                                                     en la bota para mejorar la
+                                                     caída con el calzado.
+
+                                                     Están fabricados en telas
+                                                     de última tecnología como
+                                                     lo es el
+                                                     Antifluido stretch con
+                                                     elongación bidireccional,
+                                                     posee una composición de
+                                                     88%
+                                                     poliéster - 12% Lycra, que
+                        PANTALON                     además de brindar
+                        NEGRO                        frescura y protección te da                                        PANTALÓN
+H23501      variable    NOVA          1   0visible   libertad de movimiento.     taxable parent       0        20% 65000UNICOLOR    Pantalón negro 1, pantalón neg
+                        PANTALON
+                        NEGRO
+H23501XS    variacion   NOVA XS       1   0visible                                   taxable parent   1   10   20% 65000
+                        PANTALON
+                        NEGRO
+H23501S     variacion   NOVA S     1   0visible                                taxable parent   1   10   20% 65000
+                        PANTALON
+                        NEGRO
+H23501M     variacion   NOVA M     1   0visible                                taxable parent   1   10   20% 65000
+                        PANTALON
+                        NEGRO
+H23501L     variacion   NOVA L     1   0visible                                taxable parent   1   10   20% 65000
+                        PANTALON
+                        NEGRO
+H23501XL    variacion   NOVA XL    1   0visible                                taxable parent   1   10   20% 65000
+                        PANTALON
+                        NEGRO
+H23501XXL variacion     NOVA XXL   1   0visible                                taxable parent   1   10   20% 65000
+                                                  Nuestros PANTALONES
+                                                  son tipo cargo con 4
+                                                  bolsillos, elástico
+                                                  semiexpuesto, ajuste por
+                                                  cordón interno y abertura
+                                                  en la bota para mejorar la
+                                                  caída con el calzado.
+
+                                                  Están fabricados en telas
+                                                  de última tecnología como
+                                                  lo es el
+                                                  Antifluido stretch con
+                                                  elongación bidireccional,
+                                                  posee una composición de
+                                                  88%
+                                                  poliéster - 12% Lycra, que
+                        PANTALON                  además de brindar
+                        AZUL O                    frescura y protección te da                                     PANTALÓN
+H23504      variable    NOVA       1   0visible   libertad de movimiento.     taxable parent    0            65000UNICOLOR   Pantalón azul o 1, pantalón azu
+                        PANTALON
+                        AZUL O
+H23504XS    variacion   NOVA XS    1   0visible                                taxable parent   1   10   20% 65000
+                        PANTALON
+                        AZUL O
+H23504S     variacion   NOVA S     1   0visible                                taxable parent   1   10   20% 65000
+                        PANTALON
+                        AZUL O
+                        NOVA M
+H23504M     variacion              1   0visible                                taxable parent   1   10   20% 65000
+                        PANTALON
+                        AZUL O
+H23504L     variacion   NOVA L     1   0visible                                taxable parent   1   10   20% 65000
+                        PANTALON
+                        AZUL O
+H23504XL    variacion   NOVA XL    1   0visible                                taxable parent   1   10   20% 65000
+                        PANTALON
+                        AZUL O
+H23504XXL variacion     NOVA XXL   1   0visible                                taxable parent   1   10   20% 65000
+                                                  Nuestros PANTALONES
+                                                  son tipo cargo con 4
+                                                  bolsillos, elástico
+                                                  semiexpuesto, ajuste por
+                                                  cordón interno y abertura
+                                                  en la bota para mejorar la
+                                                  caída con el calzado.
+
+                                                  Están fabricados en telas
+                                                  de última tecnología como
+                                                  lo es el
+                                                  Antifluido stretch con
+                                                  elongación bidireccional,
+                                                  posee una composición de
+                                                  88%
+                                                  poliéster - 12% Lycra, que
+                        PANTALON                  además de brindar
+                        GRIS O                    frescura y protección te da                                     PANTALÓN
+H23502      variable    NOVA       1   0visible   libertad de movimiento.     taxable parent    0            65000UNICOLOR   Pantalón gris o 1, pantalón gris
+                        PANTALON
+                        GRIS O
+H23502XS    variacion   NOVA XS    1   0visible                                taxable parent   1   10   20% 65000
+                        PANTALON
+                        GRIS O
+H23502S     variacion   NOVA S     1   0visible                                taxable parent   1   10   20% 65000
+                        PANTALON
+                        GRIS O
+H23502M     variacion   NOVA M     1   0visible                                taxable parent   1   10   20% 65000
+                        PANTALON
+                        GRIS O
+H23502L     variacion   NOVA L     1   0visible                                taxable parent   1   10   20% 65000
+                        PANTALON
+                        GRIS O
+H23502XL    variacion   NOVA XL    1   0visible                                taxable parent   1   10   20% 65000
+                        PANTALON
+                        GRIS O
+H23502XXL variacion     NOVA XXL   1   0visible                                taxable parent   1   10   20% 65000
+                                                  Nuestros PANTALONES
+                                                  son tipo cargo con 4
+                                                  bolsillos, elástico
+                                                  semiexpuesto, ajuste por
+                                                  cordón interno y abertura
+                                                  en la bota para mejorar la
+                                                  caída con el calzado.
+
+                                                  Están fabricados en telas
+                                                  de última tecnología como
+                                                  lo es el
+                                                  Antifluido stretch con
+                                                  elongación bidireccional,
+                                                  posee una composición de
+                                                  88%
+                                                  poliéster - 12% Lycra, que
+                        PANTALON                  además de brindar
+                        FUCSIA                    frescura y protección te da                                     PANTALÓN
+H23505      variable    NOVA       1   0visible   libertad de movimiento.     taxable parent    0            65000UNICOLOR   Pantalón fucsia 1, pantalón fuc
+                        PANTALON
+                        FUCSIA
+H23505XS    variacion   NOVA XS    1   0visible                                taxable parent   1   10   20% 65000
+                        PANTALON
+                        FUCSIA
+H23505S     variacion   NOVA S     1   0visible                                taxable parent   1   10   20% 65000
+                        PANTALON
+                        FUCSIA
+H23505M     variacion   NOVA M     1   0visible                                taxable parent   1   10   20% 65000
+                        PANTALON
+                        FUCSIA
+H23505L     variacion
+                        NOVA L     1   0visible                                taxable parent   1   10   20% 65000
+
+                        PANTALON
+                        FUCSIA
+H23505XL    variacion   NOVA XL    1   0visible                                taxable parent   1   10   20% 65000
+                        PANTALON
+                        FUCSIA
+H23505XXL variacion     NOVA XXL    1   0visible                                taxable parent   1   10   20% 65000
+                                                   Nuestros PANTALONES
+                                                   son tipo cargo con 4
+                                                   bolsillos, elástico
+                                                   semiexpuesto, ajuste por
+                                                   cordón interno y abertura
+                                                   en la bota para mejorar la
+                                                   caída con el calzado.
+
+                                                   Están fabricados en telas
+                                                   de última tecnología como
+                                                   lo es el
+                                                   Antifluido stretch con
+                                                   elongación bidireccional,
+                                                   posee una composición de
+                                                   88%
+                                                   poliéster - 12% Lycra, que
+                                                   además de brindar
+                        PANTALON                   frescura y protección te da                                     PANTALÓN
+H23511      variable    ROJO NOVA   1   0visible   libertad de movimiento.     taxable parent    0            65000UNICOLOR
+                        PANTALON
+                        ROJO NOVA
+H23511XS    variacion   XS          1   0visible                                taxable parent   1   10   20% 65000
+                        PANTALON
+                        ROJO NOVA
+H23511S     variacion   S           1   0visible                                taxable parent   1   10   20% 65000
+                        PANTALON
+                        ROJO NOVA
+H23511M     variacion   M           1   0visible                                taxable parent   1   10   20% 65000
+                        PANTALON
+                        ROJO NOVA
+H23511L     variacion   L           1   0visible                                taxable parent   1   10   20% 65000
+                        PANTALON
+                        ROJO NOVA
+H23511XL    variacion   XL          1   0visible                                taxable parent   1   10   20% 65000
+                        PANTALON
+                        ROJO NOVA
+H23511XXL variacion     XXL         1   0visible                                taxable parent   1   10   20% 65000
+                                                   Nuestros PANTALONES
+                                                   son tipo cargo con 4
+                                                   bolsillos, elástico
+                                                   semiexpuesto, ajuste por
+                                                   cordón interno y abertura
+                                                   en la bota para mejorar la
+                                                   caída con el calzado.
+
+                                                   Están fabricados en telas
+                                                   de última tecnología como
+                                                   lo es el
+                                                   Antifluido stretch con
+                                                   elongación bidireccional,
+                                                   posee una composición de
+                                                   88%
+                                                   poliéster - 12% Lycra, que
+                                                   además de brindar
+                        PANTALON                   frescura y protección te da                                     PANTALÓN
+H23512      variable    JADE NOVA   1   0visible   libertad de movimiento.     taxable parent    0            65000UNICOLOR
+                        PANTALON
+                        JADE NOVA
+H23512XS    variacion   (XS)        1   0visible                                taxable parent   1   10   20% 65000
+                        PANTALON
+                        JADE NOVA
+H23512S     variacion   (S)         1   0visible                                taxable parent   1   10   20% 65000
+                        PANTALON
+                        JADE NOVA
+H23512M     variacion   (M)         1   0visible                                taxable parent   1   10   20% 65000
+                        PANTALON
+                        JADE NOVA
+H23512L     variacion   (L)         1   0visible                                taxable parent   1   10   20% 65000
+                        PANTALON
+                        JADE NOVA
+H23512XL    variacion   (XL)        1   0visible                                taxable parent   1   10   20% 65000
+                        PANTALON
+                        JADE NOVA
+                        (XXL)
+H23512XXL variacion                 1   0visible                                taxable parent   1   10   20% 65000
+                                                   Nuestros PANTALONES
+                                                   son tipo cargo con 4
+                                                   bolsillos, elástico
+                                                   semiexpuesto, ajuste por
+                                                   cordón interno y abertura
+                                                   en la bota para mejorar la
+                                                   caída con el calzado.
+
+                                                   Están fabricados en telas
+                                                   de última tecnología como
+                                                   lo es el
+                                                   Antifluido stretch con
+                                                   elongación bidireccional,
+                                                   posee una composición de
+                                                   88%
+                                                   poliéster - 12% Lycra, que
+                                                   además de brindar
+                        PANTALON                   frescura y protección te da                                     PANTALÓN
+H23510      variable    VINO NOVA   1   0visible   libertad de movimiento.     taxable parent    0            65000UNICOLOR
+                        PANTALON
+                        VINO NOVA
+H23510XS    variacion   XS          1   0visible                                taxable parent   1   10   20% 65000
+                        PANTALON
+                        VINO NOVA
+H23510S     variacion   S           1   0visible                                taxable parent   1   10   20% 65000
+                        PANTALON
+                        VINO NOVA
+H23510M     variacion   M           1   0visible                                taxable parent   1   10   20% 65000
+                        PANTALON
+                        VINO NOVA
+H23510L     variacion   L           1   0visible                                taxable parent   1   10   20% 65000
+                        PANTALON
+                        VINO NOVA
+H23510XL    variacion   XL          1   0visible                                taxable parent   1   10   20% 65000
+                        PANTALON
+                        VINO NOVA
+H23510XXL variacion     XXL         1   0visible                                taxable parent   1   10   20% 65000
+                                                 Blusa viene con escote
+                                                 tipo V, 2 bolsillos frontales
+                                                 y aberturas a los lados que
+                                                 le brindan un mejor ajuste
+                                                 al cuerpo, sin cierre ya que
+                                                 al ser licrado no es
+                                                 necesario y te brinda más
+                                                 comodidad.
+
+                                                 Pantalón tipo jogger con
+                                                 elástico en la bota, con 2
+                                                 bolsillos traseros y 2
+                                                 laterales, cintura con
+                                                 elástico expuesto para
+                                                 ayor comodidad.
+
+                                                 Están fabricados en telas
+                                                 de última tecnología como
+                                                 lo es el Antifluido stretch
+                                                 con elongación
+                                                 bidireccional y vivos en tela
+                                                 deportiva antimicrobial que
+                                                 además de brindar
+                                                 frescura y protección te da
+                      SPORTFIT                   libertad de movimiento.                                        UNIFORME
+HS407     variable    NEGRO       1   1visible                                   taxable parent   0       178000SPORTFIT   Sporfit negro 1, sporfit negro 2
+                      SPORTFIT
+HS407XS   variacion   NEGRO XS    1   1visible                                   taxable parent   0   0   178000
+                      SPORTFIT
+HS407S    variacion   NEGRO S     1   1visible                                   taxable parent   1   2   178000
+                      SPORTFIT
+HS407M    variacion   NEGRO M     1   1visible                                   taxable parent   1   4   178000
+                      SPORTFIT
+HS407L    variacion   NEGRO L     1   1visible                                   taxable parent   1   4   178000
+                      SPORTFIT
+HS407XL   variacion   NEGRO XL    1   1visible                                   taxable parent   1   2   178000
+                                                 Blusa viene con escote
+                                                 tipo V, 2 bolsillos frontales
+                                                 y aberturas a los lados que
+                                                 le brindan un mejor ajuste
+                                                 al cuerpo, sin cierre ya que
+                                                 al ser licrado no es
+                                                 necesario y te brinda más
+                                                 comodidad.
+
+                                                 Pantalón tipo jogger con
+                                                 elástico en la bota, con 2
+                                                 bolsillos traseros y 2
+                                                 laterales, cintura con
+                                                 elástico expuesto para
+                                                 ayor comodidad.
+
+                                                 Están fabricados en telas
+                                                 de última tecnología como
+                                                 lo es el Antifluido stretch
+                                                 con elongación
+                                                 bidireccional y vivos en tela
+                                                 deportiva antimicrobial que
+                                                 además de brindar
+                                                 frescura y protección te da
+                      SPORTFIT                   libertad de movimiento.                                        UNIFORME
+HS408     variable    AZUL O      1   1visible                                   taxable parent   0       178000SPORTFIT   Sporfit azul o 1, sporfit azul o 2
+                      SPORTFIT
+HS408XS   variacion   AZUL O XS   1   1visible                                   taxable parent   1   1   178000
+                      SPORTFIT
+HS408S    variacion   AZUL O S    1   1visible                                   taxable parent   1   4   178000
+                      SPORTFIT
+HS408M    variacion   AZUL O M    1   1visible                                   taxable parent   1   4   178000
+                      SPORTFIT
+HS408L    variacion   AZUL O L    1   1visible                                   taxable parent   1   4   178000
+                      SPORTFIT
+HS408XL   variacion   AZUL O XL   1   1visible                                   taxable parent   1   4   178000
+                                                 Blusa viene con escote
+                                                 tipo V, 2 bolsillos frontales
+                                                 y aberturas a los lados que
+                                                 le brindan un mejor ajuste
+                                                 al cuerpo, sin cierre ya que
+                                                 al ser licrado no es
+                                                 necesario y te brinda más
+                                                 comodidad.
+
+                                                 Pantalón tipo jogger con
+                                                 elástico en la bota, con 2
+                                                 bolsillos traseros y 2
+                                                 laterales, cintura con
+                                                 elástico expuesto para
+                                                 ayor comodidad.
+
+                                                 Están fabricados en telas
+                                                 de última tecnología como
+                                                 lo es el Antifluido stretch
+                                                 con elongación
+                                                 bidireccional y vivos en tela
+                                                 deportiva antimicrobial que
+                                                 además de brindar
+                                                 frescura y protección te da
+                      SPORTFIT                   libertad de movimiento.                                        UNIFORME
+HS409     variable    GRIS C      1   1visible                                   taxable parent   0       178000SPORTFIT   Sporfit gris 1, sporfit gris 2, spo
+                      SPORTFIT
+HS409XS   variacion   GRIS C XS   1   1visible                                   taxable parent   1   4   178000
+                      SPORTFIT
+HS409S    variacion   GRIS C S    1   1visible                                   taxable parent   1   4   178000
+                      SPORTFIT
+HS409M    variacion   GRIS C M    1   1visible                                   taxable parent   1   4   178000
+                      SPORTFIT
+HS409L    variacion   GRIS C L    1   1visible                                   taxable parent   1   4   178000
+                      SPORTFIT
+HS409XL   variacion   GRIS C XL   1   1visible                                   taxable parent   1   4   178000
+                                                   Blusa viene con escote
+                                                   tipo V, 2 bolsillos frontales
+                                                   y aberturas a los lados que
+                                                   le brindan un mejor ajuste
+                                                   al cuerpo, sin cierre ya que
+                                                   al ser licrado no es
+                                                   necesario y te brinda más
+                                                   comodidad.
+
+                                                   Pantalón tipo jogger con
+                                                   elástico en la bota, con 2
+                                                   bolsillos traseros y 2
+                                                   laterales, cintura con
+                                                   elástico expuesto para
+                                                   ayor comodidad.
+
+                                                   Están fabricados en telas
+                                                   de última tecnología como
+                                                   lo es el Antifluido stretch
+                                                   con elongación
+                                                   bidireccional y vivos en tela
+                                                   deportiva antimicrobial que
+                                                   además de brindar
+                                                   frescura y protección te da
+                       SPORTFIT                    libertad de movimiento.                                        UNIFORME
+HS410      variable    VERDE A      1   1visible                                   taxable parent   0       178000SPORTFIT     Sporfit verde 1, sporfit verde 2,
+                       SPORTFIT
+HS410XS    variacion   VERDE A XS   1   1visible                                   taxable parent   1   4   178000
+                       SPORTFIT
+HS410S     variacion   VERDE A S    1   1visible                                   taxable parent   1   4   178000
+                       SPORTFIT
+HS410M     variacion   VERDE A M    1   1visible                                   taxable parent   1   4   178000
+                       SPORTFIT
+HS410L     variacion   VERDE A L    1   1visible                                   taxable parent   1   4   178000
+                       SPORTFIT
+HS410XL    variacion   VERDE A XL   1   1visible                                   taxable parent   1   4   178000
+                                                   Bata larga, con cierre
+                                                   frontal con solapa, 2
+                                                   bolsillos frontales, puño de
+                                                   manga resortado.
+                                                   Están fabricadas en telas
+                                                   de última tecnología como
+                                                   lo es el
+                                                   Antifluido stretch con
+                                                   elongación bidireccional,
+                                                   posee una composición de
+                                                   88%
+                                                   poliéster - 12% Lycra, que
+                       BATA                        además de brindar
+                       SUPREME                     frescura y protección te da                                    BATAS
+BTS001     variable    REDLOVE      1   1visible   libertad de movimiento.      taxable parent      0       180000ESTAMPADAS   Bata redlove. Jpg
+                       BATA
+                       SUPREME
+                       REDLOVE
+BTS00106   variacion   (XS)         1   1visible                                   taxable parent   1   6   180000
+                       BATA
+                       SUPREME
+                       REDLOVE
+BTS00108   variacion   (S)          1   1visible                                   taxable parent   1   6   180000
+                       BATA
+                       SUPREME
+                       REDLOVE
+BTS00110   variacion   (M)          1   1visible                                   taxable parent   1   6   180000
+                       BATA
+                       SUPREME
+                       REDLOVE
+BTS00112   variacion   (L)          1   1visible                                   taxable parent   1   6   180000
+                       BATA
+                       SUPREME
+                       REDLOVE
+BTS00114   variacion   (XL)         1   1visible                                   taxable parent   1   6   180000
+                                                   Bata larga, con cierre
+                                                   frontal con solapa, 2
+                                                   bolsillos frontales, puño de
+                                                   manga resortado.
+                                                   Están fabricadas en telas
+                                                   de última tecnología como
+                                                   lo es el
+                                                   Antifluido stretch con
+                                                   elongación bidireccional,
+                                                   posee una composición de
+                                                   88%
+                                                   poliéster - 12% Lycra, que
+                       BATA                        además de brindar
+                       SUPREME                     frescura y protección te da                                    BATAS
+BTS002     variable    RAINBOW      1   1visible   libertad de movimiento.      taxable parent      0       180000ESTAMPADAS   Bata rainbom. Jpg
+                       BATA
+                       SUPREME
+                       RAINBOW
+BTS00206   variacion   (XS)         1   1visible                                   taxable parent   1   6   180000
+                       BATA
+                       SUPREME
+                       RAINBOW
+BTS00208   variacion   (S)          1   1visible                                   taxable parent   1   6   180000
+                       BATA
+                       SUPREME
+                       RAINBOW
+BTS00210   variacion   (M)          1   1visible                                   taxable parent   1   6   180000
+                       BATA
+                       SUPREME
+                       RAINBOW
+BTS00212   variacion   (L)          1   1visible                                   taxable parent   1   6   180000
+                       BATA
+                       SUPREME
+                       RAINBOW
+BTS00214   variacion   (XL)         1   1visible                                   taxable parent   1   6   180000
+                                                   Bata larga, con cierre
+                                                   frontal con solapa, 2
+                                                   bolsillos frontales, puño de
+                                                   manga resortado.
+                                                   Están fabricadas en telas
+                                                   de última tecnología como
+                                                   lo es el
+                                                   Antifluido stretch con
+                                                   elongación bidireccional,
+                                                   posee una composición de
+                                                   88%
+                                                   poliéster - 12% Lycra, que
+                       BATA                        además de brindar
+                       SUPREME                     frescura y protección te da                                    BATAS
+BTS003     variable    NIGHT        1   1visible   libertad de movimiento.      taxable parent      0       180000ESTAMPADAS   Bata nigth. Jpg
+                       BATA
+                       SUPREME
+BTS00306   variacion   NIGHT (XS)   1   1visible                                   taxable parent   1   6   180000
+                       BATA
+                       SUPREME
+BTS00308   variacion   NIGHT (S)    1   1visible                                   taxable parent   1   6   180000
+                       BATA
+                       SUPREME
+BTS00310   variacion   NIGHT (M)    1   1visible                                taxable parent   1   6       180000
+                       BATA
+                       SUPREME
+BTS00312   variacion   NIGHT (L)    1   1visible                                taxable parent   1   6       180000
+                       BATA
+                       SUPREME
+BTS00314   variacion   NIGHT (XL)   1   1visible                                taxable parent   1   6       180000
+                                                   Bata larga, con cierre
+                                                   frontal con solapa, 2
+                                                   bolsillos frontales, puño de
+                                                   manga resortado.
+                                                   Están fabricadas en telas
+                                                   de última tecnología como
+                                                   lo es el
+                                                   Antifluido stretch con
+                                                   elongación bidireccional,
+                                                   posee una composición de
+                                                   88%
+                                                   poliéster - 12% Lycra, que
+                       BATA                        además de brindar
+                       SUPREME                     frescura y protección te da                                     BATAS
+BTS004     variable    LOL          1   1visible   libertad de movimiento.      taxable parent   0           180000ESTAMPADAS   Bata LOL. Jpg
+                       BATA
+                       SUPREME
+BTS00406   variacion   LOL (XS)     1   1visible                                taxable parent   1   6       180000
+                       BATA
+                       SUPREME
+BTS00408   variacion   LOL (S)      1   1visible                                taxable parent   1   6       180000
+                       BATA
+                       SUPREME
+BTS00410   variacion   LOL (M)      1   1visible                                taxable parent   1   6       180000
+                       BATA
+                       SUPREME
+BTS00412   variacion   LOL (L)      1   1visible                                taxable parent   1   6       180000
+                       BATA
+                       SUPREME
+BTS00414   variacion   LOL (XL)     1   1visible                                taxable parent   1   6       180000
+                                                   Gorro con bolsa para
+                                                   el cabello, diseñados
+                                                   para que se
+                                                   acomoden
+                                                   suavemente a la
+                                                   cabeza con cinta para
+                                                   amarrar y elástico
+                       GORRO                       interno posterior para                                          GORRO
+HG908      variable    SPACECAT     1   0visible   mejorar su ajuste.     taxable       parent   1   6    20% 35000QUIRÚRGICO   GORRO SPACECAT
+                                                   Gorro con bolsa para
+                                                   el cabello, diseñados
+                                                   para que se
+                                                   acomoden
+                                                   suavemente a la
+                                                   cabeza con cinta para
+                                                   amarrar y elástico
+                       GORRO                       interno posterior para                                          GORRO
+HG902      variable    MONSTER      1   0visible   mejorar su ajuste.     taxable       parent   1   6    20% 35000QUIRÚRGICO   GORRO MONSTER
+                                                   Gorro con bolsa para
+                                                   el cabello, diseñados
+                                                   para que se
+                                                   acomoden
+                                                   suavemente a la
+                                                   cabeza con cinta para
+                                                   amarrar y elástico
+                                                   interno posterior para                                          GORRO
+HG909      variable    GORRO LOL    1   0visible   mejorar su ajuste.     taxable       parent   1   6    20% 35000QUIRÚRGICO   GORRO LOL
+                                                   Gorro con bolsa para
+                                                   el cabello, diseñados
+                                                   para que se
+                                                   acomoden
+                                                   suavemente a la
+                                                   cabeza con cinta para
+                                                   amarrar y elástico
+                       GORRO                       interno posterior para                                          GORRO
+HG912      variable    DRAGON       1   0visible   mejorar su ajuste.     taxable       parent   1   1    20% 35000QUIRÚRGICO   GORRO DRAGON
+                                                   Gorro con bolsa para
+                                                   el cabello, diseñados
+                                                   para que se
+                                                   acomoden
+                                                   suavemente a la
+                                                   cabeza con cinta para
+                                                   amarrar y elástico
+                       GORRO                       interno posterior para                                          GORRO
+HG913      variable    FRUITS       1   0visible   mejorar su ajuste.     taxable       parent   1   10   20% 35000QUIRÚRGICO   GORRO FRUITS
+                                                   Gorro con bolsa para
+                                                   el cabello, diseñados
+                                                   para que se
+                                                   acomoden
+                                                   suavemente a la
+                                                   cabeza con cinta para
+                                                   amarrar y elástico
+                       GORRO                       interno posterior para                                          GORRO
+HG915      variable    KOALA        1   0visible   mejorar su ajuste.     taxable       parent   1   2    20% 35000QUIRÚRGICO   GORRO KOALA
+                                                   Gorro con bolsa para
+                                                   el cabello, diseñados
+                                                   para que se
+                                                   acomoden
+                                                   suavemente a la
+                                                   cabeza con cinta para
+                                                   amarrar y elástico
+                       GORRO                       interno posterior para                                          GORRO
+HG919      variable    LLAMAS       1   0visible   mejorar su ajuste.     taxable       parent   1   2    20% 35000QUIRÚRGICO   GORRO LLAMAS
+                                                   Gorro con bolsa para
+                                                   el cabello, diseñados
+                                                   para que se
+                                                   acomoden
+                                                   suavemente a la
+                                                   cabeza con cinta para
+                                                   amarrar y elástico
+                       GORRO                       interno posterior para                                          GORRO
+HG920      variable    BIRDS        1   0visible   mejorar su ajuste.     taxable       parent   1   10   20% 35000QUIRÚRGICO   GORRO BIRDS
+                                                   Gorro con bolsa para
+                                                   el cabello, diseñados
+                                                   para que se
+                                                   acomoden
+                                                   suavemente a la
+                                                   cabeza con cinta para
+                                                   amarrar y elástico
+                       GORRO                       interno posterior para                                          GORRO
+HG923      variable    CATS         1   0visible   mejorar su ajuste.     taxable       parent   1   10   20% 35000QUIRÚRGICO   GORRO CATS
+                                              Gorro con bolsa para
+                                              el cabello, diseñados
+                                              para que se
+                                              acomoden
+                                              suavemente a la
+                                              cabeza con cinta para
+                                              amarrar y elástico
+                                              interno posterior para
+                   GORRO                      mejorar su ajuste.                                          GORRO
+HG925   variable   FLYPETS     1   0visible                            taxable parent   1   5    20% 35000QUIRÚRGICO   GORRO FLYPETS
+                                              Gorro con bolsa para
+                                              el cabello, diseñados
+                                              para que se
+                                              acomoden
+                                              suavemente a la
+                                              cabeza con cinta para
+                                              amarrar y elástico
+                   GORRO                      interno posterior para                                      GORRO
+HG926   variable   CRAZY       1   0visible   mejorar su ajuste.     taxable   parent   1   5    20% 35000QUIRÚRGICO   GORRO CRAZY
+                                              Gorro con bolsa para
+                                              el cabello, diseñados
+                                              para que se
+                                              acomoden
+                                              suavemente a la
+                                              cabeza con cinta para
+                                              amarrar y elástico
+                   GORRO                      interno posterior para                                      GORRO
+HG927   variable   VIRUS       1   0visible   mejorar su ajuste.     taxable   parent   1   10   20% 35000QUIRÚRGICO   GORRO VIRUS
+                                              Gorro con bolsa para
+                                              el cabello, diseñados
+                                              para que se
+                                              acomoden
+                                              suavemente a la
+                                              cabeza con cinta para
+                                              amarrar y elástico
+                   GORRO                      interno posterior para                                      GORRO
+HG928   variable   EMOTICONS   1   0visible   mejorar su ajuste.     taxable   parent   1   5    20% 35000QUIRÚRGICO   GORRO EMOTICONS
+                                              Gorro con bolsa para
+                                              el cabello, diseñados
+                                              para que se
+                                              acomoden
+                                              suavemente a la
+                                              cabeza con cinta para
+                                              amarrar y elástico
+                   GORRO                      interno posterior para                                      GORRO
+HG929   variable   SUPER       1   0visible   mejorar su ajuste.     taxable   parent   1   4    20% 35000QUIRÚRGICO   GORRO SUPER
+                                              Gorro con bolsa para
+                                              el cabello, diseñados
+                                              para que se
+                                              acomoden
+                                              suavemente a la
+                                              cabeza con cinta para
+                                              amarrar y elástico
+                   GORRO                      interno posterior para                                      GORRO
+HG930   variable   HEART       1   0visible   mejorar su ajuste.     taxable   parent   1   4    20% 35000QUIRÚRGICO   GORRO HEART
+                                              Gorro con bolsa para
+                                              el cabello, diseñados
+                                              para que se
+                                              acomoden
+                                              suavemente a la
+                                              cabeza con cinta para
+                                              amarrar y elástico
+                   GORRO                      interno posterior para                                      GORRO
+HG931   variable   STARS       1   0visible   mejorar su ajuste.     taxable   parent   1   4    20% 35000QUIRÚRGICO   GORRO STARS
+                                              Gorro con bolsa para
+                                              el cabello, diseñados
+                                              para que se
+                                              acomoden
+                                              suavemente a la
+                                              cabeza con cinta para
+                   GORRO                      amarrar y elástico
+                   STICKER                    interno posterior para                                      GORRO
+HG933   variable   BOOM        1   0visible   mejorar su ajuste.     taxable   parent   1   10   20% 35000QUIRÚRGICO   GORRO STICKER BOOM
+                                              Gorro con bolsa para
+                                              el cabello, diseñados
+                                              para que se
+                                              acomoden
+                                              suavemente a la
+                                              cabeza con cinta para
+                                              amarrar y elástico
+                                              interno posterior para
+                   GORRO                      mejorar su ajuste.                                          GORRO
+HG934   variable   FACECAT     1   0visible                            taxable parent   1   10   20% 35000QUIRÚRGICO   GORRO FACECAT
+                                              Gorro con bolsa para
+                                              el cabello, diseñados
+                                              para que se
+                                              acomoden
+                                              suavemente a la
+                                              cabeza con cinta para
+                                              amarrar y elástico
+                   GORRO                      interno posterior para                                      GORRO
+HG935   variable   SMALLBOX    1   0visible   mejorar su ajuste.     taxable   parent   1   10   20% 35000QUIRÚRGICO   GORRO SMALLBOX
+                                              Gorro con bolsa para
+                                              el cabello, diseñados
+                                              para que se
+                                              acomoden
+                                              suavemente a la
+                                              cabeza con cinta para
+                                              amarrar y elástico
+                   GORRO                      interno posterior para                                      GORRO
+HG936   variable   REDLOVE     1   0visible   mejorar su ajuste.     taxable   parent   1   10   20% 35000QUIRÚRGICO   GORRO REDLOVE
+                                              Gorro con bolsa para
+                                              el cabello, diseñados
+                                              para que se
+                                              acomoden
+                                              suavemente a la
+                                              cabeza con cinta para
+                                              amarrar y elástico
+                   GORRO                      interno posterior para                                      GORRO
+HG937   variable   OCTOPUS     1   0visible   mejorar su ajuste.     taxable   parent   1   10   20% 35000QUIRÚRGICO   GORRO OCTOPUS
+                                            Gorro con bolsa para
+                                            el cabello, diseñados
+                                            para que se
+                                            acomoden
+                                            suavemente a la
+                                            cabeza con cinta para
+                                            amarrar y elástico
+                   GORRO                    interno posterior para                                      GORRO
+HG938   variable   COOKIES   1   0visible   mejorar su ajuste.     taxable   parent   1   10   20% 35000QUIRÚRGICO   GORRO COOKIES
+                                            Gorro con bolsa para
+                                            el cabello, diseñados
+                                            para que se
+                                            acomoden
+                                            suavemente a la
+                                            cabeza con cinta para
+                                            amarrar y elástico
+                   GORRO                    interno posterior para                                      GORRO
+HG939   variable   RAINBOW   1   0visible   mejorar su ajuste.     taxable   parent   1   10   20% 35000QUIRÚRGICO   GORRO RAINBOW
+                                            Gorro con bolsa para
+                                            el cabello, diseñados
+                                            para que se
+                                            acomoden
+                                            suavemente a la
+                                            cabeza con cinta para
+                                            amarrar y elástico
+                   GORRO                    interno posterior para                                      GORRO
+HG940   variable   ALIEN     1   0visible   mejorar su ajuste.     taxable   parent   1   10   20% 35000QUIRÚRGICO   GORRO ALIEN
+                                            Gorro con bolsa para
+                                            el cabello, diseñados
+                                            para que se
+                                            acomoden
+                                            suavemente a la
+                                            cabeza con cinta para
+                                            amarrar y elástico
+                   GORRO                    interno posterior para                                      GORRO
+HG941   variable   FLOWER    1   0visible   mejorar su ajuste.     taxable   parent   1   10   20% 35000QUIRÚRGICO   GORRO FLOWER
+                                            Gorro con bolsa para
+                                            el cabello, diseñados
+                                            para que se
+                                            acomoden
+                                            suavemente a la
+                                            cabeza con cinta para
+                                            amarrar y elástico
+                   GORRO                    interno posterior para
+                                                                                                        GORRO
+HG942              AVOCADO                  mejorar su ajuste.                                                       GORRO AVOCADO
+        variable             1   0visible                           taxable parent    1   10   20% 35000QUIRÚRGICO
+                                            Gorro con bolsa para
+                                            el cabello, diseñados
+                                            para que se
+                                            acomoden
+                                            suavemente a la
+                                            cabeza con cinta para
+                                            amarrar y elástico
+                   GORRO                    interno posterior para                                      GORRO
+HG943   variable   GLOBE     1   0visible   mejorar su ajuste.     taxable   parent   1   10   20% 35000QUIRÚRGICO   GORRO GLOBE
+
